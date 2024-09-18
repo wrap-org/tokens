@@ -23,7 +23,7 @@
     "@etchteam/eslint-config": "^2.0.14",
     "@etchteam/stylelint-config": "^1.5.0",
     "eslint": "^8.57.0",
-    "husky": "^9.1.4",
+    "husky": "^9.1.6",
     "lint-staged": "^15.2.10",
     "postcss": "^8.4.45",
     "postcss-scss": "^4.0.9",
