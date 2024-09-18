@@ -1,5 +1,3 @@
-// Not sure if these can actually be used - don't think you can use CSS variables in media queries. TODO
-
 :root {
   --mobius-breakpoint-xs: 0;
   --mobius-breakpoint-sm: 30rem; // 480px
@@ -10,5 +8,5 @@
   --mobius-breakpoint-xxxl: 90rem; // 1440px
   --mobius-breakpoint-tablet: var(--mobius-breakpoint-lg);
   --mobius-breakpoint-desktop: var(--mobius-breakpoint-xl);
-  --mobius-breakpoint-max: var(--mobius-breakpoint-xxl);
+  --mobius-breakpoint-max: var(--mobius-breakpoint-xxxl);
 }
