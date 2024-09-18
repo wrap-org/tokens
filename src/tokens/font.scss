@@ -1,0 +1,33 @@
+// Need to get new fonts working and put in new default values. TODO
+:root {
+  --mobius-font-family: 'Open Sans', -apple-system, system-ui,
+    BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
+  --mobius-font-family-roboto: Roboto, Lato, -apple-system, system-ui,
+    BlinkMacSystemFont, Helvetica, Arial, sans-serif;
+  // What to use for fallback? TODO
+  --mobius-font-family-heading: 'Marr Sans Cond Web', 'Roboto Condensed', Impact,
+    sans-serif;
+
+  --mobius-font-line-height: 1.25;
+  --mobius-font-line-height-sm: 1.125;
+  --mobius-font-line-height-lg: 1.5;
+
+  --mobius-font-size-base: 1rem;
+  --mobius-font-size-xs: 0.75em;
+  --mobius-font-size-sm: 0.875em;
+  --mobius-font-size-md: 1.125em;
+  --mobius-font-size-lg: 1.25em;
+  --mobius-font-size-xl: 1.5em;
+
+  --mobius-font-size-h1: 2.25em;
+  --mobius-font-size-h2: var(--mobius-font-size-lg);
+  --mobius-font-size-h3: var(--mobius-font-size-md);
+  --mobius-font-size-h4: var(--mobius-font-size-base);
+  --mobius-font-size-h5: var(--mobius-font-size-sm);
+  --mobius-font-size-h6: var(--mobius-font-size-xs);
+
+  --mobius-font-weight-base: 400;
+  --mobius-font-weight-light: 300;
+  --mobius-font-weight-bold: 700;
+  --mobius-font-weight-black: 800;
+}

@@ -1,0 +1,120 @@
+:root {
+  --mobius-button-border-radius: calc(var(--mobius-spacing-thumb) / 2);
+  --mobius-button-border-width: 1px;
+
+  // DEFAULT
+  --mobius-button-background-default: var(--mobius-color-cloud);
+  --mobius-button-border-color-default: var(--mobius-color-forest-50);
+  --mobius-button-color-default: var(--mobius-color-forest);
+
+  --mobius-button-background-hover-default: var(--mobius-color-cloud-75);
+  --mobius-button-border-color-hover-default: var(--mobius-color-forest-50);
+  --mobius-button-color-hover-default: var(--mobius-color-forest-50);
+
+  --mobius-button-background-focus-default: var(--mobius-color-cloud);
+  --mobius-button-border-color-focus-default: var(--mobius-color-forest);
+  --mobius-button-color-focus-default: var(--mobius-color-forest);
+
+  --mobius-button-background-disabled-default: var(--mobius-color-cloud-75);
+  --mobius-button-border-color-disabled-default: var(--mobius-color-forest-25);
+  --mobius-button-color-disabled-default: var(--mobius-color-forest-50);
+
+  // PRIMARY
+  --mobius-button-background-primary: var(--mobius-color-lime);
+  --mobius-button-border-color-primary: var(--mobius-color-lime);
+  --mobius-button-color-primary: var(--mobius-color-forest);
+
+  --mobius-button-background-hover-primary: var(--mobius-color-lime-75);
+  --mobius-button-border-color-hover-primary: var(--mobius-color-lime-75);
+  --mobius-button-color-hover-primary: var(--mobius-color-forest-75);
+
+  --mobius-button-background-focus-primary: var(--mobius-color-lime);
+  --mobius-button-border-color-focus-primary: var(--mobius-color-forest);
+  --mobius-button-color-focus-primary: var(--mobius-color-forest);
+
+  --mobius-button-background-disabled-primary: var(--mobius-color-lime-25);
+  --mobius-button-border-color-disabled-primary: var(--mobius-color-lime-25);
+  --mobius-button-color-disabled-primary: var(--mobius-color-forest-50);
+
+  // SECONDARY
+  --mobius-button-background-secondary: var(--mobius-color-forest-75);
+  --mobius-button-border-color-secondary: var(--mobius-color-forest-75);
+  --mobius-button-color-secondary: var(--mobius-color-cloud);
+
+  --mobius-button-background-hover-secondary: var(--mobius-color-forest);
+  --mobius-button-border-color-hover-secondary: var(--mobius-color-forest);
+  --mobius-button-color-hover-secondary: var(--mobius-color-cloud);
+
+  --mobius-button-background-focus-secondary: var(--mobius-color-forest-75);
+  --mobius-button-border-color-focus-secondary: var(--mobius-color-forest);
+  --mobius-button-color-focus-secondary: var(--mobius-color-cloud);
+
+  --mobius-button-background-disabled-secondary: var(--mobius-color-forest-50);
+  --mobius-button-border-color-disabled-secondary: var(
+    --mobius-color-forest-50
+  );
+  --mobius-button-color-disabled-secondary: var(--mobius-color-cloud);
+
+  // POSITIVE
+  --mobius-button-background-positive: var(--mobius-color-lime);
+  --mobius-button-border-color-positive: var(--mobius-color-lime);
+  --mobius-button-color-positive: var(--mobius-color-forest);
+
+  --mobius-button-background-hover-positive: var(--mobius-color-lime-75);
+  --mobius-button-border-color-hover-positive: var(--mobius-color-lime-75);
+  --mobius-button-color-hover-positive: var(--mobius-color-forest-75);
+
+  --mobius-button-background-focus-positive: var(--mobius-color-lime);
+  --mobius-button-border-color-focus-positive: var(--mobius-color-forest);
+  --mobius-button-color-focus-positive: var(--mobius-color-forest);
+
+  --mobius-button-background-disabled-positive: var(--mobius-color-lime-25);
+  --mobius-button-border-color-disabled-positive: var(--mobius-color-lime-25);
+  --mobius-button-color-disabled-positive: var(--mobius-color-forest-50);
+
+  // NEGATIVE
+  --mobius-button-background-negative: var(--mobius-color-rose-75);
+  --mobius-button-border-color-negative: var(--mobius-color-rose-75);
+  --mobius-button-color-negative: var(--mobius-color-forest);
+
+  --mobius-button-background-hover-negative: var(--mobius-color-rose-50);
+  --mobius-button-border-color-hover-negative: var(--mobius-color-rose-50);
+  --mobius-button-color-hover-negative: var(--mobius-color-forest-75);
+
+  --mobius-button-background-focus-negative: var(--mobius-color-rose-75);
+  --mobius-button-border-color-focus-negative: var(--mobius-color-forest);
+  --mobius-button-color-focus-negative: var(--mobius-color-forest);
+
+  --mobius-button-background-disabled-negative: var(--mobius-color-rose-25);
+  --mobius-button-border-color-disabled-negative: var(--mobius-color-rose-25);
+  --mobius-button-color-disabled-negative: var(--mobius-color-forest-50);
+
+  // SET FALLBACK VALUES
+  --mobius-button-background: var(--mobius-button-background-default);
+  --mobius-button-border-color: var(--mobius-button-border-color-default);
+  --mobius-button-color: var(--mobius-button-color-default);
+
+  --mobius-button-background-hover: var(
+    --mobius-button-background-hover-default
+  );
+  --mobius-button-border-color-hover: var(
+    --mobius-button-border-color-hover-default
+  );
+  --mobius-button-color-hover: var(--mobius-button-color-hover-default);
+
+  --mobius-button-background-focus: var(
+    --mobius-button-background-focus-default
+  );
+  --mobius-button-border-color-focus: var(
+    --mobius-button-border-color-focus-default
+  );
+  --mobius-button-color-focus: var(--mobius-button-color-focus-default);
+
+  --mobius-button-background-disabled: var(
+    --mobius-button-background-disabled-default
+  );
+  --mobius-button-border-color-disabled: var(
+    --mobius-button-border-color-disabled-default
+  );
+  --mobius-button-color-disabled: var(--mobius-button-color-disabled-default);
+}

@@ -1,0 +1,21 @@
+:root {
+  --mobius-input-background: var(--mobius-color-cloud);
+  --mobius-input-background-focus: var(--mobius-color-cloud);
+  --mobius-input-background-disabled: var(--mobius-color-earth-25);
+
+  --mobius-input-border: var(--mobius-color-forest-25);
+  --mobius-input-border-hover: var(--mobius-color-forest-50);
+  --mobius-input-border-focus: var(--mobius-color-forest-75);
+  --mobius-input-border-radius: var(--mobius-radius-sm);
+
+  --mobius-input-color: var(--mobius-color-forest);
+  --mobius-input-color-disabled: var(--mobius-color-forest-75);
+
+  --mobius-input-checked: var(--mobius-color-forest);
+  --mobius-input-checkradio-border-radius: var(--mobius-radius-sm);
+
+  --mobius-input-padding-vertical: var(--mobius-spacing-sm);
+  --mobius-input-padding-horizontal: var(--mobius-spacing-md);
+  --mobius-input-padding: var(--mobius-input-padding-vertical)
+    var(--mobius-input-padding-horizontal);
+}

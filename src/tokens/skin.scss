@@ -1,0 +1,91 @@
+:root {
+  // Have improvised the muted colours for now. Come back to. TODO
+  // Also link styles. ATM they are mostly all the same as text style
+  --mobius-skin-background-light: var(--mobius-color-cloud);
+  --mobius-skin-background-muted-light: var(--mobius-color-earth-25);
+  --mobius-skin-border-color-light: var(--mobius-color-forest-25);
+  --mobius-skin-color-light: var(--mobius-color-forest);
+  --mobius-skin-color-muted-light: var(--mobius-color-forest-75);
+  --mobius-skin-heading-color-light: var(--mobius-color-forest);
+  --mobius-skin-link-color-light: var(--mobius-color-forest);
+  --mobius-skin-link-color-hover-light: var(--mobius-color-forest-75);
+  --mobius-skin-link-color-focus-light: var(--mobius-color-forest);
+  --mobius-skin-link-text-decoration-light: none;
+  --mobius-skin-link-text-decoration-hover-light: underline;
+
+  --mobius-skin-background-dark: var(--mobius-color-forest);
+  --mobius-skin-background-muted-dark: var(--mobius-color-forest-75);
+  --mobius-skin-border-color-dark: var(--mobius-color-forest-75);
+  --mobius-skin-color-dark: var(--mobius-color-cloud);
+  --mobius-skin-color-muted-dark: var(--mobius-color-cloud);
+  --mobius-skin-heading-color-dark: var(--mobius-color-cloud);
+  --mobius-skin-link-color-dark: var(--mobius-color-cloud);
+  --mobius-skin-link-text-decoration-dark: underline;
+  --mobius-skin-link-text-decoration-hover-dark: underline;
+
+  --mobius-skin-background-info: var(--mobius-color-sky-25);
+  --mobius-skin-background-muted-info: var(--mobius-color-sky-25);
+  --mobius-skin-border-color-info: var(--mobius-color-sky-25);
+  --mobius-skin-color-info: var(--mobius-color-forest);
+  --mobius-skin-color-muted-info: var(--mobius-color-forest-75);
+  --mobius-skin-heading-color-info: var(--mobius-color-forest);
+  --mobius-skin-link-color-info: var(--mobius-color-forest);
+  --mobius-skin-link-text-decoration-info: none;
+  --mobius-skin-link-text-decoration-hover-info: underline;
+
+  --mobius-skin-background-neutral: var(--mobius-color-sky);
+  --mobius-skin-background-muted-neutral: var(--mobius-color-sky);
+  --mobius-skin-border-color-neutral: var(--mobius-color-sky);
+  --mobius-skin-color-neutral: var(--mobius-color-forest);
+  --mobius-skin-color-muted-neutral: var(--mobius-color-forest-75);
+  --mobius-skin-heading-color-neutral: var(--mobius-color-forest);
+  --mobius-skin-link-color-neutral: var(--mobius-color-forest);
+  --mobius-skin-link-text-decoration-neutral: underline;
+  --mobius-skin-link-text-decoration-hover-neutral: underline;
+
+  --mobius-skin-background-positive: var(--mobius-color-lime);
+  --mobius-skin-background-muted-positive: var(--mobius-color-lime-75);
+  --mobius-skin-border-color-positive: var(--mobius-color-lime);
+  --mobius-skin-color-positive: var(--mobius-color-forest);
+  --mobius-skin-color-muted-positive: var(--mobius-color-forest);
+  --mobius-skin-heading-color-positive: var(--mobius-color-forest);
+  --mobius-skin-link-color-positive: var(--mobius-color-forest);
+  --mobius-skin-link-text-decoration-positive: underline;
+  --mobius-skin-link-text-decoration-hover-positive: underline;
+
+  --mobius-skin-background-negative: var(--mobius-color-rose-75);
+  --mobius-skin-background-muted-negative: var(--mobius-color-rose-75);
+  --mobius-skin-border-color-negative: var(--mobius-color-rose-75);
+  --mobius-skin-color-negative: var(--mobius-color-forest);
+  --mobius-skin-color-muted-negative: var(--mobius-color-forest-75);
+  --mobius-skin-heading-color-negative: var(--mobius-color-forest);
+  --mobius-skin-link-color-negative: var(--mobius-color-forest);
+  --mobius-skin-link-text-decoration-negative: underline;
+  --mobius-skin-link-text-decoration-hover-negative: underline;
+
+  --mobius-skin-background-attention: var(--mobius-color-lime-25);
+  --mobius-skin-background-muted-attention: var(--mobius-color-lime-25);
+  --mobius-skin-border-color-attention: var(--mobius-color-lime-25);
+  --mobius-skin-color-attention: var(--mobius-color-forest);
+  --mobius-skin-color-muted-attention: var(--mobius-color-forest-75);
+  --mobius-skin-heading-color-attention: var(--mobius-color-forest);
+  --mobius-skin-link-color-attention: var(--mobius-color-forest);
+  --mobius-skin-linktext-decoration-attention: underline;
+  --mobius-skin-linktext-decoration-hover-attention: underline;
+
+  --mobius-skin-background: var(--mobius-skin-background-light);
+  --mobius-skin-background-muted: var(--mobius-skin-background-muted-light);
+  --mobius-skin-border-color: var(--mobius-skin-border-color-light);
+  --mobius-skin-color: var(--mobius-skin-color-light);
+  --mobius-skin-color-muted: var(--mobius-skin-color-muted-light);
+  --mobius-skin-heading-color: var(--mobius-skin-heading-color-light);
+  --mobius-skin-link-color: var(--mobius-skin-link-color-light);
+  --mobius-skin-link-color-hover: var(--mobius-skin-link-color-hover-light);
+  --mobius-skin-link-color-focus: var(--mobius-skin-link-color-focus-light);
+  --mobius-skin-link-text-decoration: var(
+    --mobius-skin-link-text-decoration-light
+  );
+  --mobius-skin-link-text-decoration-hover: var(
+    --mobius-skin-link-text-decoration-hover-light
+  );
+}
