@@ -1,0 +1,33 @@
+{
+  "name": "etch-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prestart": "npm install && husky",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etchteam/base.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/etchteam/base/issues"
+  },
+  "homepage": "https://github.com/etchteam/base#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^19.5.0",
+    "@commitlint/config-conventional": "^19.2.2",
+    "@etchteam/eslint-config": "^2.0.14",
+    "@etchteam/stylelint-config": "^1.5.0",
+    "eslint": "^8.57.0",
+    "husky": "^9.1.4",
+    "lint-staged": "^15.2.10",
+    "postcss": "^8.4.45",
+    "postcss-scss": "^4.0.9",
+    "prettier": "^3.3.3",
+    "stylelint": "^16.8.1"
+  }
+}
