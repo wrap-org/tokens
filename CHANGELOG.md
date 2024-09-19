@@ -1,3 +1,9 @@
+## [1.1.1](https://github.com/etchteam/mobius-tokens/compare/v1.1.0...v1.1.1) (2024-09-19)
+
+### Bug Fixes
+
+* include dist in release ([da16224](https://github.com/etchteam/mobius-tokens/commit/da16224653d1c877d2adf3a8df9806fc6a2fb502))
+
 ## [1.1.0](https://github.com/etchteam/mobius-tokens/compare/v1.0.0...v1.1.0) (2024-09-18)
 
 ### Features
