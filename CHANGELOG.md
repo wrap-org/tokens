@@ -1,3 +1,9 @@
+## [1.1.2](https://github.com/etchteam/mobius-tokens/compare/v1.1.1...v1.1.2) (2024-09-20)
+
+### Bug Fixes
+
+* residual and garden stream colours ([7f0ce8e](https://github.com/etchteam/mobius-tokens/commit/7f0ce8e03f66e522f6dec7b6c34acf346b850069))
+
 ## [1.1.1](https://github.com/etchteam/mobius-tokens/compare/v1.1.0...v1.1.1) (2024-09-19)
 
 ### Bug Fixes
