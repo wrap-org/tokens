@@ -1,3 +1,9 @@
+## [1.2.0](https://github.com/etchteam/mobius-tokens/compare/v1.1.2...v1.2.0) (2024-09-23)
+
+### Features
+
+* update new base fonts ([7afad94](https://github.com/etchteam/mobius-tokens/commit/7afad94030878161dd7dc55560f0b924a1043f2d))
+
 ## [1.1.2](https://github.com/etchteam/mobius-tokens/compare/v1.1.1...v1.1.2) (2024-09-20)
 
 ### Bug Fixes

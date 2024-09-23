@@ -1,6 +1,6 @@
 {
   "name": "@etchteam/mobius-tokens",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "description": "CSS variables for use on WRAP's Web Properties",
   "scripts": {
     "build": "sass src/main.scss dist/index.css && cp src/tokens/breakpoint.scss dist/breakpoint.scss",
