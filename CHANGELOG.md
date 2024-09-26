@@ -1,3 +1,9 @@
+## [1.3.0](https://github.com/etchteam/mobius-tokens/compare/v1.2.0...v1.3.0) (2024-09-26)
+
+### Features
+
+* shadow token ([3deba56](https://github.com/etchteam/mobius-tokens/commit/3deba5626e7b1fdc9e4a7a84bc86a43619f65873))
+
 ## [1.2.0](https://github.com/etchteam/mobius-tokens/compare/v1.1.2...v1.2.0) (2024-09-23)
 
 ### Features
