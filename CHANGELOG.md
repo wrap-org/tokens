@@ -1,3 +1,10 @@
+## [1.4.0](https://github.com/etchteam/mobius-tokens/compare/v1.3.0...v1.4.0) (2024-12-05)
+
+### Features
+
+* add organic stream colour ([ccd944a](https://github.com/etchteam/mobius-tokens/commit/ccd944a52db7a7d10e8be492e47f3044b231e803))
+* change garden stream colour to earth ([b9ba28d](https://github.com/etchteam/mobius-tokens/commit/b9ba28ddf0aaab2daf73195391e6f6cb8378e792))
+
 ## [1.3.0](https://github.com/etchteam/mobius-tokens/compare/v1.2.0...v1.3.0) (2024-09-26)
 
 ### Features
