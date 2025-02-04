@@ -1,120 +1,110 @@
 :root {
-  --mobius-button-border-radius: calc(var(--mobius-spacing-thumb) / 2);
-  --mobius-button-border-width: 1px;
+  --evg-button-border-radius: calc(var(--evg-spacing-thumb) / 2);
+  --evg-button-border-width: 1px;
 
   // DEFAULT
-  --mobius-button-background-default: var(--mobius-color-cloud);
-  --mobius-button-border-color-default: var(--mobius-color-forest-50);
-  --mobius-button-color-default: var(--mobius-color-forest);
+  --evg-button-background-default: var(--evg-color-cloud);
+  --evg-button-border-color-default: var(--evg-color-forest-50);
+  --evg-button-color-default: var(--evg-color-forest);
 
-  --mobius-button-background-hover-default: var(--mobius-color-cloud-75);
-  --mobius-button-border-color-hover-default: var(--mobius-color-forest-50);
-  --mobius-button-color-hover-default: var(--mobius-color-forest-75);
+  --evg-button-background-hover-default: var(--evg-color-cloud-75);
+  --evg-button-border-color-hover-default: var(--evg-color-forest-50);
+  --evg-button-color-hover-default: var(--evg-color-forest-75);
 
-  --mobius-button-background-focus-default: var(--mobius-color-cloud);
-  --mobius-button-border-color-focus-default: var(--mobius-color-forest);
-  --mobius-button-color-focus-default: var(--mobius-color-forest);
+  --evg-button-background-focus-default: var(--evg-color-cloud);
+  --evg-button-border-color-focus-default: var(--evg-color-forest);
+  --evg-button-color-focus-default: var(--evg-color-forest);
 
-  --mobius-button-background-disabled-default: var(--mobius-color-cloud-75);
-  --mobius-button-border-color-disabled-default: var(--mobius-color-forest-25);
-  --mobius-button-color-disabled-default: var(--mobius-color-forest-50);
+  --evg-button-background-disabled-default: var(--evg-color-cloud-75);
+  --evg-button-border-color-disabled-default: var(--evg-color-forest-25);
+  --evg-button-color-disabled-default: var(--evg-color-forest-50);
 
   // PRIMARY
-  --mobius-button-background-primary: var(--mobius-color-lime);
-  --mobius-button-border-color-primary: var(--mobius-color-lime);
-  --mobius-button-color-primary: var(--mobius-color-forest);
+  --evg-button-background-primary: var(--evg-color-lime);
+  --evg-button-border-color-primary: var(--evg-color-lime);
+  --evg-button-color-primary: var(--evg-color-forest);
 
-  --mobius-button-background-hover-primary: var(--mobius-color-lime-75);
-  --mobius-button-border-color-hover-primary: var(--mobius-color-lime-75);
-  --mobius-button-color-hover-primary: var(--mobius-color-forest-75);
+  --evg-button-background-hover-primary: var(--evg-color-lime-75);
+  --evg-button-border-color-hover-primary: var(--evg-color-lime-75);
+  --evg-button-color-hover-primary: var(--evg-color-forest-75);
 
-  --mobius-button-background-focus-primary: var(--mobius-color-lime);
-  --mobius-button-border-color-focus-primary: var(--mobius-color-forest);
-  --mobius-button-color-focus-primary: var(--mobius-color-forest);
+  --evg-button-background-focus-primary: var(--evg-color-lime);
+  --evg-button-border-color-focus-primary: var(--evg-color-forest);
+  --evg-button-color-focus-primary: var(--evg-color-forest);
 
-  --mobius-button-background-disabled-primary: var(--mobius-color-lime-25);
-  --mobius-button-border-color-disabled-primary: var(--mobius-color-lime-25);
-  --mobius-button-color-disabled-primary: var(--mobius-color-forest-50);
+  --evg-button-background-disabled-primary: var(--evg-color-lime-25);
+  --evg-button-border-color-disabled-primary: var(--evg-color-lime-25);
+  --evg-button-color-disabled-primary: var(--evg-color-forest-50);
 
   // SECONDARY
-  --mobius-button-background-secondary: var(--mobius-color-forest-75);
-  --mobius-button-border-color-secondary: var(--mobius-color-forest-75);
-  --mobius-button-color-secondary: var(--mobius-color-cloud);
+  --evg-button-background-secondary: var(--evg-color-forest-75);
+  --evg-button-border-color-secondary: var(--evg-color-forest-75);
+  --evg-button-color-secondary: var(--evg-color-cloud);
 
-  --mobius-button-background-hover-secondary: var(--mobius-color-forest);
-  --mobius-button-border-color-hover-secondary: var(--mobius-color-forest);
-  --mobius-button-color-hover-secondary: var(--mobius-color-cloud);
+  --evg-button-background-hover-secondary: var(--evg-color-forest);
+  --evg-button-border-color-hover-secondary: var(--evg-color-forest);
+  --evg-button-color-hover-secondary: var(--evg-color-cloud);
 
-  --mobius-button-background-focus-secondary: var(--mobius-color-forest-75);
-  --mobius-button-border-color-focus-secondary: var(--mobius-color-forest);
-  --mobius-button-color-focus-secondary: var(--mobius-color-cloud);
+  --evg-button-background-focus-secondary: var(--evg-color-forest-75);
+  --evg-button-border-color-focus-secondary: var(--evg-color-forest);
+  --evg-button-color-focus-secondary: var(--evg-color-cloud);
 
-  --mobius-button-background-disabled-secondary: var(--mobius-color-forest-50);
-  --mobius-button-border-color-disabled-secondary: var(
-    --mobius-color-forest-50
-  );
-  --mobius-button-color-disabled-secondary: var(--mobius-color-cloud);
+  --evg-button-background-disabled-secondary: var(--evg-color-forest-50);
+  --evg-button-border-color-disabled-secondary: var(--evg-color-forest-50);
+  --evg-button-color-disabled-secondary: var(--evg-color-cloud);
 
   // POSITIVE
-  --mobius-button-background-positive: var(--mobius-color-lime);
-  --mobius-button-border-color-positive: var(--mobius-color-lime);
-  --mobius-button-color-positive: var(--mobius-color-forest);
+  --evg-button-background-positive: var(--evg-color-lime);
+  --evg-button-border-color-positive: var(--evg-color-lime);
+  --evg-button-color-positive: var(--evg-color-forest);
 
-  --mobius-button-background-hover-positive: var(--mobius-color-lime-75);
-  --mobius-button-border-color-hover-positive: var(--mobius-color-lime-75);
-  --mobius-button-color-hover-positive: var(--mobius-color-forest-75);
+  --evg-button-background-hover-positive: var(--evg-color-lime-75);
+  --evg-button-border-color-hover-positive: var(--evg-color-lime-75);
+  --evg-button-color-hover-positive: var(--evg-color-forest-75);
 
-  --mobius-button-background-focus-positive: var(--mobius-color-lime);
-  --mobius-button-border-color-focus-positive: var(--mobius-color-forest);
-  --mobius-button-color-focus-positive: var(--mobius-color-forest);
+  --evg-button-background-focus-positive: var(--evg-color-lime);
+  --evg-button-border-color-focus-positive: var(--evg-color-forest);
+  --evg-button-color-focus-positive: var(--evg-color-forest);
 
-  --mobius-button-background-disabled-positive: var(--mobius-color-lime-25);
-  --mobius-button-border-color-disabled-positive: var(--mobius-color-lime-25);
-  --mobius-button-color-disabled-positive: var(--mobius-color-forest-50);
+  --evg-button-background-disabled-positive: var(--evg-color-lime-25);
+  --evg-button-border-color-disabled-positive: var(--evg-color-lime-25);
+  --evg-button-color-disabled-positive: var(--evg-color-forest-50);
 
   // NEGATIVE
-  --mobius-button-background-negative: var(--mobius-color-rose-75);
-  --mobius-button-border-color-negative: var(--mobius-color-rose-75);
-  --mobius-button-color-negative: var(--mobius-color-forest);
+  --evg-button-background-negative: var(--evg-color-rose-75);
+  --evg-button-border-color-negative: var(--evg-color-rose-75);
+  --evg-button-color-negative: var(--evg-color-forest);
 
-  --mobius-button-background-hover-negative: var(--mobius-color-rose-50);
-  --mobius-button-border-color-hover-negative: var(--mobius-color-rose-50);
-  --mobius-button-color-hover-negative: var(--mobius-color-forest-75);
+  --evg-button-background-hover-negative: var(--evg-color-rose-50);
+  --evg-button-border-color-hover-negative: var(--evg-color-rose-50);
+  --evg-button-color-hover-negative: var(--evg-color-forest-75);
 
-  --mobius-button-background-focus-negative: var(--mobius-color-rose-75);
-  --mobius-button-border-color-focus-negative: var(--mobius-color-forest);
-  --mobius-button-color-focus-negative: var(--mobius-color-forest);
+  --evg-button-background-focus-negative: var(--evg-color-rose-75);
+  --evg-button-border-color-focus-negative: var(--evg-color-forest);
+  --evg-button-color-focus-negative: var(--evg-color-forest);
 
-  --mobius-button-background-disabled-negative: var(--mobius-color-rose-25);
-  --mobius-button-border-color-disabled-negative: var(--mobius-color-rose-25);
-  --mobius-button-color-disabled-negative: var(--mobius-color-forest-50);
+  --evg-button-background-disabled-negative: var(--evg-color-rose-25);
+  --evg-button-border-color-disabled-negative: var(--evg-color-rose-25);
+  --evg-button-color-disabled-negative: var(--evg-color-forest-50);
 
   // SET FALLBACK VALUES
-  --mobius-button-background: var(--mobius-button-background-default);
-  --mobius-button-border-color: var(--mobius-button-border-color-default);
-  --mobius-button-color: var(--mobius-button-color-default);
+  --evg-button-background: var(--evg-button-background-default);
+  --evg-button-border-color: var(--evg-button-border-color-default);
+  --evg-button-color: var(--evg-button-color-default);
 
-  --mobius-button-background-hover: var(
-    --mobius-button-background-hover-default
-  );
-  --mobius-button-border-color-hover: var(
-    --mobius-button-border-color-hover-default
-  );
-  --mobius-button-color-hover: var(--mobius-button-color-hover-default);
+  --evg-button-background-hover: var(--evg-button-background-hover-default);
+  --evg-button-border-color-hover: var(--evg-button-border-color-hover-default);
+  --evg-button-color-hover: var(--evg-button-color-hover-default);
 
-  --mobius-button-background-focus: var(
-    --mobius-button-background-focus-default
-  );
-  --mobius-button-border-color-focus: var(
-    --mobius-button-border-color-focus-default
-  );
-  --mobius-button-color-focus: var(--mobius-button-color-focus-default);
+  --evg-button-background-focus: var(--evg-button-background-focus-default);
+  --evg-button-border-color-focus: var(--evg-button-border-color-focus-default);
+  --evg-button-color-focus: var(--evg-button-color-focus-default);
 
-  --mobius-button-background-disabled: var(
-    --mobius-button-background-disabled-default
+  --evg-button-background-disabled: var(
+    --evg-button-background-disabled-default
   );
-  --mobius-button-border-color-disabled: var(
-    --mobius-button-border-color-disabled-default
+  --evg-button-border-color-disabled: var(
+    --evg-button-border-color-disabled-default
   );
-  --mobius-button-color-disabled: var(--mobius-button-color-disabled-default);
+  --evg-button-color-disabled: var(--evg-button-color-disabled-default);
 }

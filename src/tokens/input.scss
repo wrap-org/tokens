@@ -1,21 +1,21 @@
 :root {
-  --mobius-input-background: var(--mobius-color-cloud);
-  --mobius-input-background-focus: var(--mobius-color-cloud);
-  --mobius-input-background-disabled: var(--mobius-color-earth-25);
+  --evg-input-background: var(--evg-color-cloud);
+  --evg-input-background-focus: var(--evg-color-cloud);
+  --evg-input-background-disabled: var(--evg-color-earth-25);
 
-  --mobius-input-border: var(--mobius-color-forest-25);
-  --mobius-input-border-hover: var(--mobius-color-forest-50);
-  --mobius-input-border-focus: var(--mobius-color-forest-75);
-  --mobius-input-border-radius: var(--mobius-radius-sm);
+  --evg-input-border: var(--evg-color-forest-25);
+  --evg-input-border-hover: var(--evg-color-forest-50);
+  --evg-input-border-focus: var(--evg-color-forest-75);
+  --evg-input-border-radius: var(--evg-radius-sm);
 
-  --mobius-input-color: var(--mobius-color-forest);
-  --mobius-input-color-disabled: var(--mobius-color-forest-75);
+  --evg-input-color: var(--evg-color-forest);
+  --evg-input-color-disabled: var(--evg-color-forest-75);
 
-  --mobius-input-checked: var(--mobius-color-forest);
-  --mobius-input-checkradio-border-radius: var(--mobius-radius-sm);
+  --evg-input-checked: var(--evg-color-forest);
+  --evg-input-checkradio-border-radius: var(--evg-radius-sm);
 
-  --mobius-input-padding-vertical: var(--mobius-spacing-sm);
-  --mobius-input-padding-horizontal: var(--mobius-spacing-md);
-  --mobius-input-padding: var(--mobius-input-padding-vertical)
-    var(--mobius-input-padding-horizontal);
+  --evg-input-padding-vertical: var(--evg-spacing-sm);
+  --evg-input-padding-horizontal: var(--evg-spacing-md);
+  --evg-input-padding: var(--evg-input-padding-vertical)
+    var(--evg-input-padding-horizontal);
 }

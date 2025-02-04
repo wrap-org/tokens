@@ -1,122 +1,120 @@
 :root {
   // LIGHT
-  --mobius-skin-background-light: var(--mobius-color-cloud);
-  --mobius-skin-background-muted-light: var(--mobius-color-sand-50);
+  --evg-skin-background-light: var(--evg-color-cloud);
+  --evg-skin-background-muted-light: var(--evg-color-sand-50);
 
-  --mobius-skin-border-color-light: var(--mobius-color-forest-25);
-  --mobius-skin-border-color-muted-light: var(--mobius-color-forest-25);
+  --evg-skin-border-color-light: var(--evg-color-forest-25);
+  --evg-skin-border-color-muted-light: var(--evg-color-forest-25);
 
-  --mobius-skin-color-light: var(--mobius-color-forest);
-  --mobius-skin-color-muted-light: var(--mobius-color-forest);
-  --mobius-skin-heading-color-light: var(--mobius-color-forest);
+  --evg-skin-color-light: var(--evg-color-forest);
+  --evg-skin-color-muted-light: var(--evg-color-forest);
+  --evg-skin-heading-color-light: var(--evg-color-forest);
 
-  --mobius-skin-link-color-light: var(--mobius-color-forest);
-  --mobius-skin-link-text-decoration-light: underline;
-  --mobius-skin-link-text-decoration-hover-light: none;
+  --evg-skin-link-color-light: var(--evg-color-forest);
+  --evg-skin-link-text-decoration-light: underline;
+  --evg-skin-link-text-decoration-hover-light: none;
 
   // DARK
-  --mobius-skin-background-dark: var(--mobius-color-forest);
-  --mobius-skin-background-muted-dark: var(--mobius-color-forest-75);
+  --evg-skin-background-dark: var(--evg-color-forest);
+  --evg-skin-background-muted-dark: var(--evg-color-forest-75);
 
-  --mobius-skin-border-color-dark: var(--mobius-color-coal);
-  --mobius-skin-border-color-muted-dark: var(--mobius-color-forest);
+  --evg-skin-border-color-dark: var(--evg-color-coal);
+  --evg-skin-border-color-muted-dark: var(--evg-color-forest);
 
-  --mobius-skin-color-dark: var(--mobius-color-cloud);
-  --mobius-skin-color-muted-dark: var(--mobius-color-cloud);
-  --mobius-skin-heading-color-dark: var(--mobius-color-cloud);
+  --evg-skin-color-dark: var(--evg-color-cloud);
+  --evg-skin-color-muted-dark: var(--evg-color-cloud);
+  --evg-skin-heading-color-dark: var(--evg-color-cloud);
 
-  --mobius-skin-link-color-dark: var(--mobius-color-cloud);
-  --mobius-skin-link-text-decoration-dark: underline;
-  --mobius-skin-link-text-decoration-hover-dark: none;
+  --evg-skin-link-color-dark: var(--evg-color-cloud);
+  --evg-skin-link-text-decoration-dark: underline;
+  --evg-skin-link-text-decoration-hover-dark: none;
 
   // INFO
-  --mobius-skin-background-info: var(--mobius-color-sky-25);
-  --mobius-skin-background-muted-info: var(--mobius-color-forest-25);
+  --evg-skin-background-info: var(--evg-color-sky-25);
+  --evg-skin-background-muted-info: var(--evg-color-forest-25);
 
-  --mobius-skin-border-color-info: var(--mobius-color-sky-25);
-  --mobius-skin-border-color-muted-info: var(--mobius-color-forest-25);
+  --evg-skin-border-color-info: var(--evg-color-sky-25);
+  --evg-skin-border-color-muted-info: var(--evg-color-forest-25);
 
-  --mobius-skin-color-info: var(--mobius-color-forest);
-  --mobius-skin-color-muted-info: var(--mobius-color-forest);
-  --mobius-skin-heading-color-info: var(--mobius-color-forest);
+  --evg-skin-color-info: var(--evg-color-forest);
+  --evg-skin-color-muted-info: var(--evg-color-forest);
+  --evg-skin-heading-color-info: var(--evg-color-forest);
 
-  --mobius-skin-link-color-info: var(--mobius-color-forest);
-  --mobius-skin-link-text-decoration-info: underline;
-  --mobius-skin-link-text-decoration-hover-info: none;
+  --evg-skin-link-color-info: var(--evg-color-forest);
+  --evg-skin-link-text-decoration-info: underline;
+  --evg-skin-link-text-decoration-hover-info: none;
 
   // ATTENTION
-  --mobius-skin-background-attention: var(--mobius-color-lime-25);
-  --mobius-skin-background-muted-attention: var(--mobius-color-earth-50);
+  --evg-skin-background-attention: var(--evg-color-lime-25);
+  --evg-skin-background-muted-attention: var(--evg-color-earth-50);
 
-  --mobius-skin-border-color-attention: var(--mobius-color-lime-25);
-  --mobius-skin-border-color-muted-attention: var(--mobius-color-earth-50);
+  --evg-skin-border-color-attention: var(--evg-color-lime-25);
+  --evg-skin-border-color-muted-attention: var(--evg-color-earth-50);
 
-  --mobius-skin-color-attention: var(--mobius-color-forest);
-  --mobius-skin-color-muted-attention: var(--mobius-color-forest);
-  --mobius-skin-heading-color-attention: var(--mobius-color-forest);
+  --evg-skin-color-attention: var(--evg-color-forest);
+  --evg-skin-color-muted-attention: var(--evg-color-forest);
+  --evg-skin-heading-color-attention: var(--evg-color-forest);
 
-  --mobius-skin-link-color-attention: var(--mobius-color-forest);
-  --mobius-skin-link-text-decoration-attention: underline;
-  --mobius-skin-link-text-decoration-hover-attention: none;
+  --evg-skin-link-color-attention: var(--evg-color-forest);
+  --evg-skin-link-text-decoration-attention: underline;
+  --evg-skin-link-text-decoration-hover-attention: none;
 
   // POSITIVE
-  --mobius-skin-background-positive: var(--mobius-color-lime);
-  --mobius-skin-background-muted-positive: var(--mobius-color-earth-50);
+  --evg-skin-background-positive: var(--evg-color-lime);
+  --evg-skin-background-muted-positive: var(--evg-color-earth-50);
 
-  --mobius-skin-border-color-positive: var(--mobius-color-lime);
-  --mobius-skin-border-color-muted-positive: var(--mobius-color-earth-50);
+  --evg-skin-border-color-positive: var(--evg-color-lime);
+  --evg-skin-border-color-muted-positive: var(--evg-color-earth-50);
 
-  --mobius-skin-color-positive: var(--mobius-color-forest);
-  --mobius-skin-color-muted-positive: var(--mobius-color-forest);
-  --mobius-skin-heading-color-positive: var(--mobius-color-forest);
+  --evg-skin-color-positive: var(--evg-color-forest);
+  --evg-skin-color-muted-positive: var(--evg-color-forest);
+  --evg-skin-heading-color-positive: var(--evg-color-forest);
 
-  --mobius-skin-link-color-positive: var(--mobius-color-forest);
-  --mobius-skin-link-text-decoration-positive: underline;
-  --mobius-skin-link-text-decoration-hover-positive: none;
+  --evg-skin-link-color-positive: var(--evg-color-forest);
+  --evg-skin-link-text-decoration-positive: underline;
+  --evg-skin-link-text-decoration-hover-positive: none;
 
   // NEGATIVE
-  --mobius-skin-background-negative: var(--mobius-color-rose-75);
-  --mobius-skin-background-muted-negative: var(--mobius-color-sand);
+  --evg-skin-background-negative: var(--evg-color-rose-75);
+  --evg-skin-background-muted-negative: var(--evg-color-sand);
 
-  --mobius-skin-border-color-negative: var(--mobius-color-rose-75);
-  --mobius-skin-border-color-muted-negative: var(--mobius-color-sand);
+  --evg-skin-border-color-negative: var(--evg-color-rose-75);
+  --evg-skin-border-color-muted-negative: var(--evg-color-sand);
 
-  --mobius-skin-color-negative: var(--mobius-color-forest);
-  --mobius-skin-color-muted-negative: var(--mobius-color-forest);
-  --mobius-skin-heading-color-negative: var(--mobius-color-forest);
+  --evg-skin-color-negative: var(--evg-color-forest);
+  --evg-skin-color-muted-negative: var(--evg-color-forest);
+  --evg-skin-heading-color-negative: var(--evg-color-forest);
 
-  --mobius-skin-link-color-negative: var(--mobius-color-forest);
-  --mobius-skin-link-text-decoration-negative: underline;
-  --mobius-skin-link-text-decoration-hover-negative: none;
+  --evg-skin-link-color-negative: var(--evg-color-forest);
+  --evg-skin-link-text-decoration-negative: underline;
+  --evg-skin-link-text-decoration-hover-negative: none;
 
   // NEUTRAL
-  --mobius-skin-background-neutral: var(--mobius-color-sky);
-  --mobius-skin-background-muted-neutral: var(--mobius-color-forest-25);
+  --evg-skin-background-neutral: var(--evg-color-sky);
+  --evg-skin-background-muted-neutral: var(--evg-color-forest-25);
 
-  --mobius-skin-border-color-neutral: var(--mobius-color-sky);
-  --mobius-skin-border-color-muted-neutral: var(--mobius-color-forest-25);
+  --evg-skin-border-color-neutral: var(--evg-color-sky);
+  --evg-skin-border-color-muted-neutral: var(--evg-color-forest-25);
 
-  --mobius-skin-color-neutral: var(--mobius-color-forest);
-  --mobius-skin-color-muted-neutral: var(--mobius-color-forest);
-  --mobius-skin-heading-color-neutral: var(--mobius-color-forest);
+  --evg-skin-color-neutral: var(--evg-color-forest);
+  --evg-skin-color-muted-neutral: var(--evg-color-forest);
+  --evg-skin-heading-color-neutral: var(--evg-color-forest);
 
-  --mobius-skin-link-color-neutral: var(--mobius-color-forest);
-  --mobius-skin-link-text-decoration-neutral: underline;
-  --mobius-skin-link-text-decoration-hover-neutral: none;
+  --evg-skin-link-color-neutral: var(--evg-color-forest);
+  --evg-skin-link-text-decoration-neutral: underline;
+  --evg-skin-link-text-decoration-hover-neutral: none;
 
   // FALLBACK
-  --mobius-skin-background: var(--mobius-skin-background-light);
-  --mobius-skin-background-muted: var(--mobius-skin-background-muted-light);
-  --mobius-skin-border-color: var(--mobius-skin-border-color-light);
-  --mobius-skin-border-color-muted: var(--mobius-skin-border-color-muted-light);
-  --mobius-skin-color: var(--mobius-skin-color-light);
-  --mobius-skin-color-muted: var(--mobius-skin-color-muted-light);
-  --mobius-skin-heading-color: var(--mobius-skin-heading-color-light);
-  --mobius-skin-link-color: var(--mobius-skin-link-color-light);
-  --mobius-skin-link-text-decoration: var(
-    --mobius-skin-link-text-decoration-light
-  );
-  --mobius-skin-link-text-decoration-hover: var(
-    --mobius-skin-link-text-decoration-hover-light
+  --evg-skin-background: var(--evg-skin-background-light);
+  --evg-skin-background-muted: var(--evg-skin-background-muted-light);
+  --evg-skin-border-color: var(--evg-skin-border-color-light);
+  --evg-skin-border-color-muted: var(--evg-skin-border-color-muted-light);
+  --evg-skin-color: var(--evg-skin-color-light);
+  --evg-skin-color-muted: var(--evg-skin-color-muted-light);
+  --evg-skin-heading-color: var(--evg-skin-heading-color-light);
+  --evg-skin-link-color: var(--evg-skin-link-color-light);
+  --evg-skin-link-text-decoration: var(--evg-skin-link-text-decoration-light);
+  --evg-skin-link-text-decoration-hover: var(
+    --evg-skin-link-text-decoration-hover-light
   );
 }

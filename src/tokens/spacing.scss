@@ -1,32 +1,32 @@
 :root {
-  --mobius-spacing-thumb: 2.75rem;
+  --evg-spacing-thumb: 2.75rem;
 
-  --mobius-spacing: 1rem;
+  --evg-spacing: 1rem;
 
-  // Should these be calced from --mobius-spacing? TODO
-  --mobius-spacing-4: 0.25rem;
-  --mobius-spacing-8: 0.5rem;
-  --mobius-spacing-12: 0.75rem;
-  --mobius-spacing-16: 1rem;
-  --mobius-spacing-24: 1.5rem;
-  --mobius-spacing-32: 2rem;
-  --mobius-spacing-48: 3rem;
-  --mobius-spacing-64: 4rem;
-  --mobius-spacing-96: 6rem;
-  --mobius-spacing-128: 8rem;
+  // Should these be calced from--evg-spacing? TODO
+  --evg-spacing-4: 0.25rem;
+  --evg-spacing-8: 0.5rem;
+  --evg-spacing-12: 0.75rem;
+  --evg-spacing-16: 1rem;
+  --evg-spacing-24: 1.5rem;
+  --evg-spacing-32: 2rem;
+  --evg-spacing-48: 3rem;
+  --evg-spacing-64: 4rem;
+  --evg-spacing-96: 6rem;
+  --evg-spacing-128: 8rem;
 
-  --mobius-spacing-md: var(--mobius-spacing-16);
-  --mobius-spacing-lg: var(--mobius-spacing-32);
-  --mobius-spacing-sm: var(--mobius-spacing-8);
-  --mobius-spacing-xl: var(--mobius-spacing-64);
-  --mobius-spacing-xs: var(--mobius-spacing-4);
+  --evg-spacing-md: var(--evg-spacing-16);
+  --evg-spacing-lg: var(--evg-spacing-32);
+  --evg-spacing-sm: var(--evg-spacing-8);
+  --evg-spacing-xl: var(--evg-spacing-64);
+  --evg-spacing-xs: var(--evg-spacing-4);
 
-  --mobius-spacing-fluid: 5%;
-  --mobius-spacing-fluid-lg: calc(var(--mobius-spacing-fluid) * 1.5);
-  --mobius-spacing-fluid-sm: calc(var(--mobius-spacing-fluid) * 0.5);
+  --evg-spacing-fluid: 5%;
+  --evg-spacing-fluid-lg: calc(var(--evg-spacing-fluid) * 1.5);
+  --evg-spacing-fluid-sm: calc(var(--evg-spacing-fluid) * 0.5);
 
-  --mobius-spacing-root: 5vw;
-  --mobius-spacing-root-lg: calc(var(--mobius-spacing-root) * 1.5);
-  --mobius-spacing-root-sm: calc(var(--mobius-spacing-root) * 0.5);
-  --mobius-spacing-root-xl: calc(var(--mobius-spacing-root) * 2.25);
+  --evg-spacing-root: 5vw;
+  --evg-spacing-root-lg: calc(var(--evg-spacing-root) * 1.5);
+  --evg-spacing-root-sm: calc(var(--evg-spacing-root) * 0.5);
+  --evg-spacing-root-xl: calc(var(--evg-spacing-root) * 2.25);
 }

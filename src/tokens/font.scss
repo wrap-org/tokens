@@ -1,29 +1,29 @@
 :root {
-  --mobius-font-family: 'Inter', Roboto, Lato, sans-serif;
-  --mobius-font-family-roboto: Roboto, Lato, sans-serif;
-  --mobius-font-family-heading: 'Marr Sans Cond Web', 'Roboto Condensed', Impact,
+  --evg-font-family: 'Inter', Roboto, Lato, sans-serif;
+  --evg-font-family-roboto: Roboto, Lato, sans-serif;
+  --evg-font-family-heading: 'Marr Sans Cond Web', 'Roboto Condensed', Impact,
     sans-serif;
 
-  --mobius-font-line-height: 1.25;
-  --mobius-font-line-height-sm: 1.125;
-  --mobius-font-line-height-lg: 1.5;
+  --evg-font-line-height: 1.25;
+  --evg-font-line-height-sm: 1.125;
+  --evg-font-line-height-lg: 1.5;
 
-  --mobius-font-size-base: 1rem;
-  --mobius-font-size-xs: 0.75em;
-  --mobius-font-size-sm: 0.875em;
-  --mobius-font-size-md: 1.125em;
-  --mobius-font-size-lg: 1.25em;
-  --mobius-font-size-xl: 1.5em;
+  --evg-font-size-base: 1rem;
+  --evg-font-size-xs: 0.75em;
+  --evg-font-size-sm: 0.875em;
+  --evg-font-size-md: 1.125em;
+  --evg-font-size-lg: 1.25em;
+  --evg-font-size-xl: 1.5em;
 
-  --mobius-font-size-h1: 2.25em;
-  --mobius-font-size-h2: var(--mobius-font-size-lg);
-  --mobius-font-size-h3: var(--mobius-font-size-md);
-  --mobius-font-size-h4: var(--mobius-font-size-base);
-  --mobius-font-size-h5: var(--mobius-font-size-sm);
-  --mobius-font-size-h6: var(--mobius-font-size-xs);
+  --evg-font-size-h1: 2.25em;
+  --evg-font-size-h2: var(--evg-font-size-lg);
+  --evg-font-size-h3: var(--evg-font-size-md);
+  --evg-font-size-h4: var(--evg-font-size-base);
+  --evg-font-size-h5: var(--evg-font-size-sm);
+  --evg-font-size-h6: var(--evg-font-size-xs);
 
-  --mobius-font-weight-base: 400;
-  --mobius-font-weight-light: 300;
-  --mobius-font-weight-bold: 700;
-  --mobius-font-weight-black: 800;
+  --evg-font-weight-base: 400;
+  --evg-font-weight-light: 300;
+  --evg-font-weight-bold: 700;
+  --evg-font-weight-black: 800;
 }
