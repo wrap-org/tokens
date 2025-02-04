@@ -25,7 +25,7 @@ pull_request_rules:
     actions:
       request_reviews:
         teams:
-          - devs
+          - Etch
         random_count: 2
   - name: Assign PR to its author
     conditions:
