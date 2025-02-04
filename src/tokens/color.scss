@@ -1,68 +1,68 @@
 :root {
-  --mobius-color-forest: #0b301a;
-  --mobius-color-forest-75: #486453;
-  --mobius-color-forest-50: #85978c;
-  --mobius-color-forest-25: #c2cbc6;
+  --evg-color-forest: #0b301a;
+  --evg-color-forest-75: #486453;
+  --evg-color-forest-50: #85978c;
+  --evg-color-forest-25: #c2cbc6;
 
-  --mobius-color-earth: #a9ad94;
-  --mobius-color-earth-75: #bfc1ae;
-  --mobius-color-earth-50: #d4d6c9;
-  --mobius-color-earth-25: #e9ebe5;
+  --evg-color-earth: #a9ad94;
+  --evg-color-earth-75: #bfc1ae;
+  --evg-color-earth-50: #d4d6c9;
+  --evg-color-earth-25: #e9ebe5;
 
-  --mobius-color-sand: #e8e0d6;
-  --mobius-color-sand-75: #eee8e0;
-  --mobius-color-sand-50: #f3efeb;
-  --mobius-color-sand-25: #f9f7f5;
+  --evg-color-sand: #e8e0d6;
+  --evg-color-sand-75: #eee8e0;
+  --evg-color-sand-50: #f3efeb;
+  --evg-color-sand-25: #f9f7f5;
 
-  --mobius-color-lime: #cbff89;
-  --mobius-color-lime-75: #d7ffa6;
-  --mobius-color-lime-50: #e5ffc3;
-  --mobius-color-lime-25: #f1ffdf;
+  --evg-color-lime: #cbff89;
+  --evg-color-lime-75: #d7ffa6;
+  --evg-color-lime-50: #e5ffc3;
+  --evg-color-lime-25: #f1ffdf;
 
-  --mobius-color-sky: #94b9fa;
-  --mobius-color-sky-75: #afccf9;
-  --mobius-color-sky-50: #c7ddff;
-  --mobius-color-sky-25: #e4edff;
+  --evg-color-sky: #94b9fa;
+  --evg-color-sky-75: #afccf9;
+  --evg-color-sky-50: #c7ddff;
+  --evg-color-sky-25: #e4edff;
 
-  --mobius-color-rose: #f33;
-  --mobius-color-rose-75: #ed706b;
-  --mobius-color-rose-50: #f19e9c;
-  --mobius-color-rose-25: #f7cecd;
+  --evg-color-rose: #f33;
+  --evg-color-rose-75: #ed706b;
+  --evg-color-rose-50: #f19e9c;
+  --evg-color-rose-25: #f7cecd;
 
-  --mobius-color-cloud: #fff;
-  --mobius-color-cloud-75: #ffffff75;
-  --mobius-color-coal: #000;
-  --mobius-color-steel: #7d8796;
+  --evg-color-cloud: #fff;
+  --evg-color-cloud-75: #ffffff75;
+  --evg-color-coal: #000;
+  --evg-color-steel: #7d8796;
 
-  --mobius-color-lemon: #ffe861;
-  --mobius-color-orange: #ffa345;
-  --mobius-color-lilac: #d1bdf5;
-  --mobius-color-violet: #6347e3;
+  --evg-color-lemon: #ffe861;
+  --evg-color-orange: #ffa345;
+  --evg-color-lilac: #d1bdf5;
+  --evg-color-violet: #6347e3;
 
   // Aliases
-  --mobius-color-white: var(--mobius-color-cloud);
-  --mobius-color-black: var(--mobius-color-coal);
+  --evg-color-white: var(--evg-color-cloud);
+  --evg-color-black: var(--evg-color-coal);
 
-  --mobius-color-body: var(--mobius-color-forest);
-  --mobius-color-body-muted: var(--mobius-color-forest-75);
+  --evg-color-body: var(--evg-color-forest);
+  --evg-color-body-muted: var(--evg-color-forest-75);
 
-  --mobius-color-background: var(--mobius-color-earth-25);
-  --mobius-color-background-muted: var(--mobius-color-earth-50);
+  --evg-color-background: var(--evg-color-earth-25);
+  --evg-color-background-muted: var(--evg-color-earth-50);
 
-  --mobius-color-accent: var(--mobius-color-lime);
-  --mobius-color-link: var(--mobius-color-forest-75);
+  --evg-color-accent: var(--evg-color-lime);
+  --evg-color-link: var(--evg-color-forest-75);
 
-  --mobius-color-neutral: var(--mobius-color-sky);
-  --mobius-color-neutral-light: var(--mobius-color-sky-25);
-  --mobius-color-positive: var(--mobius-color-lime);
-  --mobius-color-positive-light: var(--mobius-color-lime-25);
-  --mobius-color-negative: var(--mobius-color-rose);
-  --mobius-color-negative-light: var(--mobius-color-rose-25);
+  --evg-color-neutral: var(--evg-color-sky);
+  --evg-color-neutral-light: var(--evg-color-sky-25);
+  --evg-color-positive: var(--evg-color-lime);
+  --evg-color-positive-light: var(--evg-color-lime-25);
+  --evg-color-negative: var(--evg-color-rose);
+  --evg-color-negative-light: var(--evg-color-rose-25);
 
-  --mobius-color-no-stream: var(--mobius-color-steel);
-  --mobius-color-dry-stream: var(--mobius-color-sky);
-  --mobius-color-residual-stream: var(--mobius-color-rose-75);
-  --mobius-color-food-stream: var(--mobius-color-lilac);
-  --mobius-color-garden-stream: var(--mobius-color-earth);
-  --mobius-color-organic-stream: var(--mobius-color-steel);
+  --evg-color-no-stream: var(--evg-color-steel);
+  --evg-color-dry-stream: var(--evg-color-sky);
+  --evg-color-residual-stream: var(--evg-color-rose-75);
+  --evg-color-food-stream: var(--evg-color-lilac);
+  --evg-color-garden-stream: var(--evg-color-earth);
+  --evg-color-organic-stream: var(--evg-color-steel);
 }

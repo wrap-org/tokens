@@ -1,13 +1,13 @@
 // CSS variables don't work in media queries
 // So these breakpoint tokens are SASS variables instead
 
-$mobius-breakpoint-xs: 0;
-$mobius-breakpoint-sm: 30rem; // 480px
-$mobius-breakpoint-md: 37.5rem; // 600px
-$mobius-breakpoint-lg: 48rem; // 768px
-$mobius-breakpoint-xl: 64rem; // 1024px
-$mobius-breakpoint-xxl: 80rem; // 1280px
-$mobius-breakpoint-xxxl: 90rem; // 1440px
-$mobius-breakpoint-tablet: $mobius-breakpoint-lg;
-$mobius-breakpoint-desktop: $mobius-breakpoint-xl;
-$mobius-breakpoint-max: $mobius-breakpoint-xxxl;
+$evg-breakpoint-xs: 0;
+$evg-breakpoint-sm: 30rem; // 480px
+$evg-breakpoint-md: 37.5rem; // 600px
+$evg-breakpoint-lg: 48rem; // 768px
+$evg-breakpoint-xl: 64rem; // 1024px
+$evg-breakpoint-xxl: 80rem; // 1280px
+$evg-breakpoint-xxxl: 90rem; // 1440px
+$evg-breakpoint-tablet: $evg-breakpoint-lg;
+$evg-breakpoint-desktop: $evg-breakpoint-xl;
+$evg-breakpoint-max: $evg-breakpoint-xxxl;

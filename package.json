@@ -1,5 +1,5 @@
 {
-  "name": "@etchteam/mobius-tokens",
+  "name": "@wrap-org/tokens",
   "version": "1.4.0",
   "description": "CSS variables for use on WRAP's Web Properties",
   "scripts": {
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/etchteam/mobius-tokens.git"
+    "url": "git+https://github.com/wrap-org/tokens.git"
   },
-  "author": "Etch <hey@etch.co>",
+  "author": "WRAP <digitalteam@wrap.ngo>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/etchteam/mobius-tokens/issues"
+    "url": "https://github.com/wrap-org/tokens/issues"
   },
-  "homepage": "https://github.com/etchteam/mobius-tokens#readme",
+  "homepage": "https://github.com/wrap-org/tokens#readme",
   "devDependencies": {
     "@commitlint/cli": "^19.5.0",
     "@commitlint/config-conventional": "^19.2.2",
