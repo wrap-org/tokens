@@ -1,3 +1,9 @@
+## [2.0.1](https://github.com/wrap-org/tokens/compare/v2.0.0...v2.0.1) (2025-02-06)
+
+### Bug Fixes
+
+* package name ([1861454](https://github.com/wrap-org/tokens/commit/1861454402c12204569bf2676d34230d1f9dedf2))
+
 ## [2.0.0](https://github.com/wrap-org/tokens/compare/v1.4.0...v2.0.0) (2025-02-06)
 
 ### ⚠ BREAKING CHANGES
