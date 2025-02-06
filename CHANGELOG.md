@@ -1,3 +1,13 @@
+## [2.0.0](https://github.com/wrap-org/tokens/compare/v1.4.0...v2.0.0) (2025-02-06)
+
+### ⚠ BREAKING CHANGES
+
+* rename
+
+### Features
+
+* rename ([b80cf9f](https://github.com/wrap-org/tokens/commit/b80cf9fa96c7ee052cecef02b2f5e0f65744a767))
+
 ## [1.4.0](https://github.com/wrap-org/tokens/compare/v1.3.0...v1.4.0) (2024-12-05)
 
 ### Features

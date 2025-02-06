@@ -1,6 +1,6 @@
 {
   "name": "@wrap-org/tokens",
-  "version": "1.4.0",
+  "version": "2.0.0",
   "description": "CSS variables for use on WRAP's Web Properties",
   "scripts": {
     "build": "sass src/main.scss dist/index.css && cp src/tokens/breakpoint.scss dist/breakpoint.scss",
