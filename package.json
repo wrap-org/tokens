@@ -1,9 +1,9 @@
 {
   "name": "@wrap.ngo/tokens",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "description": "CSS variables for use on WRAP's Web Properties",
   "scripts": {
-    "build": "sass src/main.scss dist/index.css && cp src/tokens/breakpoint.scss dist/breakpoint.scss",
+    "build": "sass src/main.scss dist/index.css",
     "prestart": "npm install && husky",
     "release": "semantic-release",
     "start": "sass --watch src/main.scss dist/index.css",
