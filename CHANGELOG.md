@@ -1,3 +1,9 @@
+## [2.2.0](https://github.com/wrap-org/tokens/compare/v2.1.0...v2.2.0) (2025-02-07)
+
+### Features
+
+* remove breakpoints ([951d4ad](https://github.com/wrap-org/tokens/commit/951d4ad177143e6c99c625b2feb960ef90b7b295))
+
 ## [2.1.0](https://github.com/wrap-org/tokens/compare/v2.0.1...v2.1.0) (2025-02-07)
 
 ### Features
