@@ -1,3 +1,11 @@
+## [2.3.0](https://github.com/wrap-org/tokens/compare/v2.2.0...v2.3.0) (2025-02-07)
+
+### Features
+
+* split colors ([b890367](https://github.com/wrap-org/tokens/commit/b890367157f8dece8b68bbfa927e148faaf4771a))
+* split state into own file ([2b51eec](https://github.com/wrap-org/tokens/commit/2b51eec79c9a453a72635375b15fa6a590cb7ab2))
+* split stream into own file ([f10a25d](https://github.com/wrap-org/tokens/commit/f10a25dbef251a0458091b848f3b69895929eb05))
+
 ## [2.2.0](https://github.com/wrap-org/tokens/compare/v2.1.0...v2.2.0) (2025-02-07)
 
 ### Features
