@@ -3,10 +3,9 @@
   "version": "2.2.0",
   "description": "CSS variables for use on WRAP's Web Properties",
   "scripts": {
-    "build": "sass src/main.scss dist/index.css",
+    "build": "cat ./src/tokens/* > dist/index.css",
     "prestart": "npm install && husky",
     "release": "semantic-release",
-    "start": "sass --watch src/main.scss dist/index.css",
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "repository": {
@@ -29,10 +28,7 @@
     "eslint": "^8.57.0",
     "husky": "^9.1.4",
     "lint-staged": "^15.2.10",
-    "postcss": "^8.4.45",
-    "postcss-scss": "^4.0.9",
     "prettier": "^3.3.3",
-    "sass": "^1.79.1",
     "semantic-release": "^24.1.1",
     "stylelint": "^15.11.0"
   },

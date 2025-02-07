@@ -1,5 +1,5 @@
 :root {
-  // LIGHT
+  /* LIGHT */
   --evg-theme-background-light: var(--evg-color-cloud);
   --evg-theme-background-muted-light: var(--evg-color-sand-50);
 
@@ -14,7 +14,7 @@
   --evg-theme-link-text-decoration-light: underline;
   --evg-theme-link-text-decoration-hover-light: none;
 
-  // DARK
+  /* DARK */
   --evg-theme-background-dark: var(--evg-color-forest);
   --evg-theme-background-muted-dark: var(--evg-color-forest-75);
 
@@ -29,7 +29,7 @@
   --evg-theme-link-text-decoration-dark: underline;
   --evg-theme-link-text-decoration-hover-dark: none;
 
-  // INFO
+  /* INFO */
   --evg-theme-background-info: var(--evg-color-sky-25);
   --evg-theme-background-muted-info: var(--evg-color-forest-25);
 
@@ -44,7 +44,7 @@
   --evg-theme-link-text-decoration-info: underline;
   --evg-theme-link-text-decoration-hover-info: none;
 
-  // ATTENTION
+  /* ATTENTION */
   --evg-theme-background-attention: var(--evg-color-lime-25);
   --evg-theme-background-muted-attention: var(--evg-color-earth-50);
 
@@ -59,7 +59,7 @@
   --evg-theme-link-text-decoration-attention: underline;
   --evg-theme-link-text-decoration-hover-attention: none;
 
-  // POSITIVE
+  /* POSITIVE */
   --evg-theme-background-positive: var(--evg-color-lime);
   --evg-theme-background-muted-positive: var(--evg-color-earth-50);
 
@@ -74,7 +74,7 @@
   --evg-theme-link-text-decoration-positive: underline;
   --evg-theme-link-text-decoration-hover-positive: none;
 
-  // NEGATIVE
+  /* NEGATIVE */
   --evg-theme-background-negative: var(--evg-color-rose-75);
   --evg-theme-background-muted-negative: var(--evg-color-sand);
 
@@ -89,7 +89,7 @@
   --evg-theme-link-text-decoration-negative: underline;
   --evg-theme-link-text-decoration-hover-negative: none;
 
-  // NEUTRAL
+  /* NEUTRAL */
   --evg-theme-background-neutral: var(--evg-color-sky);
   --evg-theme-background-muted-neutral: var(--evg-color-forest-25);
 
@@ -104,7 +104,7 @@
   --evg-theme-link-text-decoration-neutral: underline;
   --evg-theme-link-text-decoration-hover-neutral: none;
 
-  // FALLBACK
+  /* FALLBACK AND MAIN */
   --evg-theme-background: var(--evg-theme-background-light);
   --evg-theme-background-muted: var(--evg-theme-background-muted-light);
   --evg-theme-border-color: var(--evg-theme-border-color-light);
