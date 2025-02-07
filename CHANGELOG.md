@@ -1,3 +1,11 @@
+## [2.1.0](https://github.com/wrap-org/tokens/compare/v2.0.1...v2.1.0) (2025-02-07)
+
+### Features
+
+* change skin tokens to theme ([49e7127](https://github.com/wrap-org/tokens/commit/49e7127e83fd5461f748096f0918a893be64db10))
+* remove container color import ([4c64107](https://github.com/wrap-org/tokens/commit/4c6410777acea0e1c5d8cfbf1b2cebddb5e2fd03))
+* remove container colors ([9cd5aff](https://github.com/wrap-org/tokens/commit/9cd5affdf4bcfb9db8e7a7b915884ab1debf65bc))
+
 ## [2.0.1](https://github.com/wrap-org/tokens/compare/v2.0.0...v2.0.1) (2025-02-06)
 
 ### Bug Fixes
