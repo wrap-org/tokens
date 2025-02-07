@@ -2,7 +2,7 @@
   --evg-button-border-radius: calc(var(--evg-spacing-thumb) / 2);
   --evg-button-border-width: 1px;
 
-  // DEFAULT
+  /* DEFAULT */
   --evg-button-background-default: var(--evg-color-cloud);
   --evg-button-border-color-default: var(--evg-color-forest-50);
   --evg-button-color-default: var(--evg-color-forest);
@@ -19,7 +19,7 @@
   --evg-button-border-color-disabled-default: var(--evg-color-forest-25);
   --evg-button-color-disabled-default: var(--evg-color-forest-50);
 
-  // PRIMARY
+  /* PRIMARY */
   --evg-button-background-primary: var(--evg-color-lime);
   --evg-button-border-color-primary: var(--evg-color-lime);
   --evg-button-color-primary: var(--evg-color-forest);
@@ -36,7 +36,7 @@
   --evg-button-border-color-disabled-primary: var(--evg-color-lime-25);
   --evg-button-color-disabled-primary: var(--evg-color-forest-50);
 
-  // SECONDARY
+  /* SECONDARY */
   --evg-button-background-secondary: var(--evg-color-forest-75);
   --evg-button-border-color-secondary: var(--evg-color-forest-75);
   --evg-button-color-secondary: var(--evg-color-cloud);
@@ -53,7 +53,7 @@
   --evg-button-border-color-disabled-secondary: var(--evg-color-forest-50);
   --evg-button-color-disabled-secondary: var(--evg-color-cloud);
 
-  // POSITIVE
+  /* POSITIVE */
   --evg-button-background-positive: var(--evg-color-lime);
   --evg-button-border-color-positive: var(--evg-color-lime);
   --evg-button-color-positive: var(--evg-color-forest);
@@ -70,7 +70,7 @@
   --evg-button-border-color-disabled-positive: var(--evg-color-lime-25);
   --evg-button-color-disabled-positive: var(--evg-color-forest-50);
 
-  // NEGATIVE
+  /* NEGATIVE */
   --evg-button-background-negative: var(--evg-color-rose-75);
   --evg-button-border-color-negative: var(--evg-color-rose-75);
   --evg-button-color-negative: var(--evg-color-forest);
@@ -87,7 +87,7 @@
   --evg-button-border-color-disabled-negative: var(--evg-color-rose-25);
   --evg-button-color-disabled-negative: var(--evg-color-forest-50);
 
-  // SET FALLBACK VALUES
+  /* FALLBACK AND MAIN */
   --evg-button-background: var(--evg-button-background-default);
   --evg-button-border-color: var(--evg-button-border-color-default);
   --evg-button-color: var(--evg-button-color-default);
