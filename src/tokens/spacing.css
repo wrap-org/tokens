@@ -3,7 +3,7 @@
 
   --evg-spacing: 1rem;
 
-  // Should these be calced from--evg-spacing? TODO
+  /* Should these be calced from--evg-spacing? TODO */
   --evg-spacing-4: 0.25rem;
   --evg-spacing-8: 0.5rem;
   --evg-spacing-12: 0.75rem;
