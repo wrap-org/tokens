@@ -1,3 +1,9 @@
+## [2.5.0](https://github.com/wrap-org/tokens/compare/v2.4.0...v2.5.0) (2025-02-27)
+
+### Features
+
+* token polish for fonts, spacing, radius, state ([408c75b](https://github.com/wrap-org/tokens/commit/408c75b3094224051aad4051208b2f2b43240421))
+
 ## [2.4.0](https://github.com/wrap-org/tokens/compare/v2.3.0...v2.4.0) (2025-02-27)
 
 ### Features
