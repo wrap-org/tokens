@@ -1,3 +1,9 @@
+## [2.4.0](https://github.com/wrap-org/tokens/compare/v2.3.0...v2.4.0) (2025-02-27)
+
+### Features
+
+* remove sass ([c18ec99](https://github.com/wrap-org/tokens/commit/c18ec990054de43fd8ba7685ba89fdc21b0a1b75))
+
 ## [2.3.0](https://github.com/wrap-org/tokens/compare/v2.2.0...v2.3.0) (2025-02-07)
 
 ### Features
