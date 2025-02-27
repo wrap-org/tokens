@@ -4,26 +4,62 @@
   --evg-font-family-heading: 'Marr Sans Cond Web', 'Roboto Condensed', Impact,
     sans-serif;
 
-  --evg-font-line-height: 1.25;
-  --evg-font-line-height-sm: 1.125;
-  --evg-font-line-height-lg: 1.5;
+  --evg-font-line-height-sm: 1.25;
+  --evg-font-line-height: 1.5;
 
-  --evg-font-size-base: 1rem;
-  --evg-font-size-xs: 0.75em;
-  --evg-font-size-sm: 0.875em;
-  --evg-font-size-md: 1.125em;
-  --evg-font-size-lg: 1.25em;
-  --evg-font-size-xl: 1.5em;
+  --evg-font-size-12: 0.75rem;
+  --evg-font-size-14: 0.875rem;
+  --evg-font-size-16: 1rem;
+  --evg-font-size-20: 1.25rem;
+  --evg-font-size-24: 1.5rem;
+  --evg-font-size-32: 2rem;
+  --evg-font-size-40: 2.5rem;
+  --evg-font-size-52: 3.25rem;
+  --evg-font-size-64: 4rem;
+  --evg-font-size-80: 5rem;
+  --evg-font-size-96: 6rem;
+  --evg-font-size-120: 7.5rem;
 
-  --evg-font-size-h1: 2.25em;
-  --evg-font-size-h2: var(--evg-font-size-lg);
-  --evg-font-size-h3: var(--evg-font-size-md);
-  --evg-font-size-h4: var(--evg-font-size-base);
-  --evg-font-size-h5: var(--evg-font-size-sm);
-  --evg-font-size-h6: var(--evg-font-size-xs);
+  --evg-font-size-body-xs: var(--evg-font-size-12);
+  --evg-font-size-body-sm: var(--evg-font-size-14);
+  --evg-font-size-body-md: var(--evg-font-size-16);
+  --evg-font-size-body-lg: var(--evg-font-size-20);
+  --evg-font-size-body-xl: var(--evg-font-size-24);
+
+  --evg-font-size-heading-xxs: var(--evg-font-size-14);
+  --evg-font-size-heading-xs: var(--evg-font-size-16);
+  --evg-font-size-heading-sm: var(--evg-font-size-20);
+  --evg-font-size-heading-md: var(--evg-font-size-24);
+  --evg-font-size-heading-lg: var(--evg-font-size-32);
+  --evg-font-size-heading-xl: var(--evg-font-size-40);
+
+  --evg-font-size-display-sm: var(--evg-font-size-40);
+  --evg-font-size-display-md: var(--evg-font-size-52);
+  --evg-font-size-display-lg: var(--evg-font-size-64);
 
   --evg-font-weight-base: 400;
   --evg-font-weight-light: 300;
   --evg-font-weight-bold: 700;
   --evg-font-weight-black: 800;
+}
+
+@media (width >= 1024px) {
+  :root {
+    --evg-font-size-body-xs: var(--evg-font-size-14);
+    --evg-font-size-body-sm: var(--evg-font-size-16);
+    --evg-font-size-body-md: var(--evg-font-size-20);
+    --evg-font-size-body-lg: var(--evg-font-size-24);
+    --evg-font-size-body-xl: var(--evg-font-size-32);
+
+    --evg-font-size-heading-xxs: var(--evg-font-size-14);
+    --evg-font-size-heading-xs: var(--evg-font-size-16);
+    --evg-font-size-heading-sm: var(--evg-font-size-24);
+    --evg-font-size-heading-md: var(--evg-font-size-32);
+    --evg-font-size-heading-lg: var(--evg-font-size-40);
+    --evg-font-size-heading-xl: var(--evg-font-size-64);
+
+    --evg-font-size-display-sm: var(--evg-font-size-80);
+    --evg-font-size-display-md: var(--evg-font-size-96);
+    --evg-font-size-display-lg: var(--evg-font-size-120);
+  }
 }
