@@ -1,3 +1,13 @@
+## [2.6.0](https://github.com/wrap-org/tokens/compare/v2.5.0...v2.6.0) (2025-02-28)
+
+### Features
+
+* update themes to new values ([94349da](https://github.com/wrap-org/tokens/commit/94349da7e7a0614f0787b09be3027f7ddec3ab02))
+
+### Bug Fixes
+
+* property order ([053776b](https://github.com/wrap-org/tokens/commit/053776bd5ee622595cbeaecdc1d1d1c50973804a))
+
 ## [2.5.0](https://github.com/wrap-org/tokens/compare/v2.4.0...v2.5.0) (2025-02-27)
 
 ### Features
