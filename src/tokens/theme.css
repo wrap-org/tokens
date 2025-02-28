@@ -1,51 +1,51 @@
 :root {
-  --evg-theme-default-background: var(--evg-color-cloud);
-  --evg-theme-default-color: var(--evg-color-forest);
-  --evg-theme-default-heading-color: var(--evg-color-forest);
-  --evg-theme-link-color: var(--evg-color-forest);
+  --evg-theme-background-default: var(--evg-color-cloud);
+  --evg-theme-color-default: var(--evg-color-forest);
+  --evg-theme-heading-color-default: var(--evg-color-forest);
+  --evg-theme-link-color-default: var(--evg-color-forest);
 
-  --evg-theme-sand-background: var(--evg-color-sand-50);
-  --evg-theme-sand-color: var(--evg-color-forest);
-  --evg-theme-sand-heading-color: var(--evg-color-forest);
-  --evg-theme-sand-link-color: var(--evg-color-forest);
+  --evg-theme-background-sand: var(--evg-color-sand-50);
+  --evg-theme-color-sand: var(--evg-color-forest);
+  --evg-theme-heading-color-sand: var(--evg-color-forest);
+  --evg-theme-link-color-sand: var(--evg-color-forest);
 
-  --evg-theme-forest-background: var(--evg-color-forest);
-  --evg-theme-forest-color: var(--evg-color-cloud);
-  --evg-theme-forest-heading-color: var(--evg-color-cloud);
-  --evg-theme-forest-link-color: var(--evg-color-cloud);
+  --evg-theme-background-forest: var(--evg-color-forest);
+  --evg-theme-color-forest: var(--evg-color-cloud);
+  --evg-theme-heading-color-forest: var(--evg-color-cloud);
+  --evg-theme-link-color-forest: var(--evg-color-cloud);
 
-  --evg-theme-forest-light-background: var(--evg-color-forest-25);
-  --evg-theme-forest-light-color: var(--evg-color-forest);
-  --evg-theme-forest-light-heading-color: var(--evg-color-forest);
-  --evg-theme-forest-light-link-color: var(--evg-color-forest);
+  --evg-theme-background-forest-light: var(--evg-color-forest-25);
+  --evg-theme-color-forest-light: var(--evg-color-forest);
+  --evg-theme-heading-color-forest-light: var(--evg-color-forest);
+  --evg-theme-link-color-forest-light: var(--evg-color-forest);
 
-  --evg-theme-lime-background: var(--evg-color-lime);
-  --evg-theme-lime-color: var(--evg-color-forest);
-  --evg-theme-lime-heading-color: var(--evg-color-forest);
-  --evg-theme-lime-link-color: var(--evg-color-forest);
+  --evg-theme-background-lime: var(--evg-color-lime);
+  --evg-theme-color-lime: var(--evg-color-forest);
+  --evg-theme-heading-color-lime: var(--evg-color-forest);
+  --evg-theme-link-color-lime: var(--evg-color-forest);
 
-  --evg-theme-lime-light-background: var(--evg-color-lime-25);
-  --evg-theme-lime-light-color: var(--evg-color-forest);
-  --evg-theme-lime-light-heading-color: var(--evg-color-forest);
-  --evg-theme-lime-light-link-color: var(--evg-color-forest);
+  --evg-theme-background-lime-light: var(--evg-color-lime-25);
+  --evg-theme-color-lime-light: var(--evg-color-forest);
+  --evg-theme-heading-color-lime-light: var(--evg-color-forest);
+  --evg-theme-link-color-lime-light: var(--evg-color-forest);
 
-  --evg-theme-sky-background: var(--evg-color-sky-50);
-  --evg-theme-sky-color: var(--evg-color-forest);
-  --evg-theme-sky-heading-color: var(--evg-color-forest);
-  --evg-theme-sky-link-color: var(--evg-color-forest);
+  --evg-theme-background-sky: var(--evg-color-sky-50);
+  --evg-theme-color-sky: var(--evg-color-forest);
+  --evg-theme-heading-color-sky: var(--evg-color-forest);
+  --evg-theme-link-color-sky: var(--evg-color-forest);
 
-  --evg-theme-sky-light-background: var(--evg-color-sky-25);
-  --evg-theme-sky-light-color: var(--evg-color-forest);
-  --evg-theme-sky-light-heading-color: var(--evg-color-forest);
-  --evg-theme-sky-light-link-color: var(--evg-color-forest);
+  --evg-theme-background-sky-light: var(--evg-color-sky-25);
+  --evg-theme-color-sky-light: var(--evg-color-forest);
+  --evg-theme-heading-color-sky-light: var(--evg-color-forest);
+  --evg-theme-link-color-sky-light: var(--evg-color-forest);
 
-  --evg-theme-earth-background: var(--evg-color-earth-75);
-  --evg-theme-earth-color: var(--evg-color-forest);
-  --evg-theme-earth-heading-color: var(--evg-color-forest);
-  --evg-theme-earth-link-color: var(--evg-color-forest);
+  --evg-theme-background-earth: var(--evg-color-earth-75);
+  --evg-theme-color-earth: var(--evg-color-forest);
+  --evg-theme-heading-color-earth: var(--evg-color-forest);
+  --evg-theme-link-color-earth: var(--evg-color-forest);
 
-  --evg-theme-earth-light-background: var(--evg-color-earth-25);
-  --evg-theme-earth-light-color: var(--evg-color-forest);
-  --evg-theme-earth-light-heading-color: var(--evg-color-forest);
-  --evg-theme-earth-light-link-color: var(--evg-color-forest);
+  --evg-theme-background-earth-light: var(--evg-color-earth-25);
+  --evg-theme-color-earth-light: var(--evg-color-forest);
+  --evg-theme-heading-color-earth-light: var(--evg-color-forest);
+  --evg-theme-link-color-earth-light: var(--evg-color-forest);
 }
