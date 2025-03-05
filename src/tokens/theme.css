@@ -48,4 +48,9 @@
   --evg-theme-color-earth-light: var(--evg-color-forest);
   --evg-theme-heading-color-earth-light: var(--evg-color-forest);
   --evg-theme-link-color-earth-light: var(--evg-color-forest);
+
+  --evg-theme-background: var(--evg-theme-background-default);
+  --evg-theme-color: var(--evg-theme-color-default);
+  --evg-theme-heading-color: var(--evg-theme-heading-color-default);
+  --evg-theme-link-color: var(--evg-theme-link-color-default);
 }
