@@ -1,3 +1,9 @@
+## [2.7.0](https://github.com/wrap-org/tokens/compare/v2.6.0...v2.7.0) (2025-03-05)
+
+### Features
+
+* add a default theme ([a4cf28d](https://github.com/wrap-org/tokens/commit/a4cf28df5cb5d2b3ac43560de3243860cb8b3e64))
+
 ## [2.6.0](https://github.com/wrap-org/tokens/compare/v2.5.0...v2.6.0) (2025-02-28)
 
 ### Features
