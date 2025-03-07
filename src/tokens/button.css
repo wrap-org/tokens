@@ -88,11 +88,11 @@
   --evg-button-border-color-text: transparent;
   --evg-button-color-text: var(--evg-color-forest);
 
-  --evg-button-background-hover-text: var(--evg-color-sand-25);
+  --evg-button-background-hover-text: transparent;
   --evg-button-border-color-hover-text: transparent;
   --evg-button-color-hover-text: var(--evg-color-forest);
 
-  --evg-button-background-focus-text: var(--evg-color-sand-25);
+  --evg-button-background-focus-text: transparent;
   --evg-button-border-color-focus-text: transparent;
   --evg-button-color-focus-text: var(--evg-color-forest);
 
