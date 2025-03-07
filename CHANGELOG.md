@@ -1,3 +1,9 @@
+## [2.8.0](https://github.com/wrap-org/tokens/compare/v2.7.0...v2.8.0) (2025-03-07)
+
+### Features
+
+* update button tokens for evergreen ([a077dd8](https://github.com/wrap-org/tokens/commit/a077dd8702e726ad93809068050c447927cb1980))
+
 ## [2.7.0](https://github.com/wrap-org/tokens/compare/v2.6.0...v2.7.0) (2025-03-05)
 
 ### Features
