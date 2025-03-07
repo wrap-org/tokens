@@ -1,6 +1,6 @@
 {
   "name": "@wrap.ngo/tokens",
-  "version": "2.9.0",
+  "version": "2.10.0",
   "description": "CSS variables for use on WRAP's Web Properties",
   "scripts": {
     "build": "cat ./src/tokens/* > dist/index.css",

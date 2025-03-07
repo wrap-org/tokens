@@ -1,3 +1,9 @@
+## [2.10.0](https://github.com/wrap-org/tokens/compare/v2.9.0...v2.10.0) (2025-03-07)
+
+### Features
+
+* button text transparent background ([b66746c](https://github.com/wrap-org/tokens/commit/b66746c0f3d0c5c64d295cc79ce67b8222a67e54))
+
 ## [2.9.0](https://github.com/wrap-org/tokens/compare/v2.8.0...v2.9.0) (2025-03-07)
 
 ### Features
