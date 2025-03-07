@@ -1,3 +1,9 @@
+## [2.9.0](https://github.com/wrap-org/tokens/compare/v2.8.0...v2.9.0) (2025-03-07)
+
+### Features
+
+* icon baseline adjust ([ac59fe5](https://github.com/wrap-org/tokens/commit/ac59fe5a641599c0e549e5fd347ae9dcf7d639e9))
+
 ## [2.8.0](https://github.com/wrap-org/tokens/compare/v2.7.0...v2.8.0) (2025-03-07)
 
 ### Features
