@@ -2,20 +2,33 @@
   --evg-button-border-radius: calc(var(--evg-spacing-thumb) / 2);
   --evg-button-border-width: 1px;
 
+  --evg-button-padding-block: var(--evg-spacing-12);
+  --evg-button-padding-inline: var(--evg-spacing-20);
+
+  --evg-button-gap: var(--evg-spacing-8);
+
+  --evg-button-font-size: var(--evg-font-size-16);
+  --evg-button-line-height: var(--evg-font-line-height-sm);
+  --evg-button-font-weight: var(--evg-font-weight-bold);
+
+  --evg-button-file-background: var(--evg-color-sand-50);
+
+  --evg-button-outline-offset: 4px;
+
   /* DEFAULT */
   --evg-button-background-default: var(--evg-color-cloud);
   --evg-button-border-color-default: var(--evg-color-forest-50);
   --evg-button-color-default: var(--evg-color-forest);
 
-  --evg-button-background-hover-default: var(--evg-color-cloud-75);
+  --evg-button-background-hover-default: var(--evg-color-sand-25);
   --evg-button-border-color-hover-default: var(--evg-color-forest-50);
-  --evg-button-color-hover-default: var(--evg-color-forest-75);
+  --evg-button-color-hover-default: var(--evg-color-forest);
 
   --evg-button-background-focus-default: var(--evg-color-cloud);
   --evg-button-border-color-focus-default: var(--evg-color-forest);
   --evg-button-color-focus-default: var(--evg-color-forest);
 
-  --evg-button-background-disabled-default: var(--evg-color-cloud-75);
+  --evg-button-background-disabled-default: var(--evg-color-sand-25);
   --evg-button-border-color-disabled-default: var(--evg-color-forest-25);
   --evg-button-color-disabled-default: var(--evg-color-forest-50);
 
@@ -26,15 +39,15 @@
 
   --evg-button-background-hover-primary: var(--evg-color-lime-75);
   --evg-button-border-color-hover-primary: var(--evg-color-lime-75);
-  --evg-button-color-hover-primary: var(--evg-color-forest-75);
+  --evg-button-color-hover-primary: var(--evg-color-forest);
 
   --evg-button-background-focus-primary: var(--evg-color-lime);
   --evg-button-border-color-focus-primary: var(--evg-color-forest);
   --evg-button-color-focus-primary: var(--evg-color-forest);
 
-  --evg-button-background-disabled-primary: var(--evg-color-lime-25);
-  --evg-button-border-color-disabled-primary: var(--evg-color-lime-25);
-  --evg-button-color-disabled-primary: var(--evg-color-forest-50);
+  --evg-button-background-disabled-primary: var(--evg-color-earth-50);
+  --evg-button-border-color-disabled-primary: var(--evg-color-earth-50);
+  --evg-button-color-disabled-primary: var(--evg-color-forest-75);
 
   /* SECONDARY */
   --evg-button-background-secondary: var(--evg-color-forest-75);
@@ -53,23 +66,6 @@
   --evg-button-border-color-disabled-secondary: var(--evg-color-forest-50);
   --evg-button-color-disabled-secondary: var(--evg-color-cloud);
 
-  /* POSITIVE */
-  --evg-button-background-positive: var(--evg-color-lime);
-  --evg-button-border-color-positive: var(--evg-color-lime);
-  --evg-button-color-positive: var(--evg-color-forest);
-
-  --evg-button-background-hover-positive: var(--evg-color-lime-75);
-  --evg-button-border-color-hover-positive: var(--evg-color-lime-75);
-  --evg-button-color-hover-positive: var(--evg-color-forest-75);
-
-  --evg-button-background-focus-positive: var(--evg-color-lime);
-  --evg-button-border-color-focus-positive: var(--evg-color-forest);
-  --evg-button-color-focus-positive: var(--evg-color-forest);
-
-  --evg-button-background-disabled-positive: var(--evg-color-lime-25);
-  --evg-button-border-color-disabled-positive: var(--evg-color-lime-25);
-  --evg-button-color-disabled-positive: var(--evg-color-forest-50);
-
   /* NEGATIVE */
   --evg-button-background-negative: var(--evg-color-rose-75);
   --evg-button-border-color-negative: var(--evg-color-rose-75);
@@ -77,34 +73,30 @@
 
   --evg-button-background-hover-negative: var(--evg-color-rose-50);
   --evg-button-border-color-hover-negative: var(--evg-color-rose-50);
-  --evg-button-color-hover-negative: var(--evg-color-forest-75);
+  --evg-button-color-hover-negative: var(--evg-color-forest);
 
   --evg-button-background-focus-negative: var(--evg-color-rose-75);
   --evg-button-border-color-focus-negative: var(--evg-color-forest);
   --evg-button-color-focus-negative: var(--evg-color-forest);
 
-  --evg-button-background-disabled-negative: var(--evg-color-rose-25);
-  --evg-button-border-color-disabled-negative: var(--evg-color-rose-25);
-  --evg-button-color-disabled-negative: var(--evg-color-forest-50);
+  --evg-button-background-disabled-negative: var(--evg-color-sand);
+  --evg-button-border-color-disabled-negative: var(--evg-color-sand);
+  --evg-button-color-disabled-negative: var(--evg-color-forest-75);
 
-  /* FALLBACK AND MAIN */
-  --evg-button-background: var(--evg-button-background-default);
-  --evg-button-border-color: var(--evg-button-border-color-default);
-  --evg-button-color: var(--evg-button-color-default);
+  /* TEXT */
+  --evg-button-background-text: transparent;
+  --evg-button-border-color-text: transparent;
+  --evg-button-color-text: var(--evg-color-forest);
 
-  --evg-button-background-hover: var(--evg-button-background-hover-default);
-  --evg-button-border-color-hover: var(--evg-button-border-color-hover-default);
-  --evg-button-color-hover: var(--evg-button-color-hover-default);
+  --evg-button-background-hover-text: var(--evg-color-sand-25);
+  --evg-button-border-color-hover-text: transparent;
+  --evg-button-color-hover-text: var(--evg-color-forest);
 
-  --evg-button-background-focus: var(--evg-button-background-focus-default);
-  --evg-button-border-color-focus: var(--evg-button-border-color-focus-default);
-  --evg-button-color-focus: var(--evg-button-color-focus-default);
+  --evg-button-background-focus-text: var(--evg-color-sand-25);
+  --evg-button-border-color-focus-text: transparent;
+  --evg-button-color-focus-text: var(--evg-color-forest);
 
-  --evg-button-background-disabled: var(
-    --evg-button-background-disabled-default
-  );
-  --evg-button-border-color-disabled: var(
-    --evg-button-border-color-disabled-default
-  );
-  --evg-button-color-disabled: var(--evg-button-color-disabled-default);
+  --evg-button-background-disabled-text: transparent;
+  --evg-button-border-color-disabled-text: transparent;
+  --evg-button-color-disabled-text: var(--evg-color-forest-75);
 }

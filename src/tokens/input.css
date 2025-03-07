@@ -11,11 +11,16 @@
   --evg-input-color: var(--evg-color-forest);
   --evg-input-color-disabled: var(--evg-color-forest-75);
 
+  --evg-input-font-size: var(--evg-font-size-16);
+  --evg-input-line-height: 1.75;
+
   --evg-input-checked: var(--evg-color-forest);
   --evg-input-checkradio-border-radius: var(--evg-radius-sm);
 
-  --evg-input-padding-vertical: var(--evg-spacing-sm);
-  --evg-input-padding-horizontal: var(--evg-spacing-md);
-  --evg-input-padding: var(--evg-input-padding-vertical)
-    var(--evg-input-padding-horizontal);
+  --evg-input-padding-block: var(--evg-spacing-sm);
+  --evg-input-padding-inline: var(--evg-spacing-md);
+  --evg-input-padding: var(--evg-input-padding-block)
+    var(--evg-input-padding-inline);
+
+  --evg-input-outline-offset: 4px;
 }
