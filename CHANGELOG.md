@@ -1,3 +1,9 @@
+## [2.11.0](https://github.com/wrap-org/tokens/compare/v2.10.0...v2.11.0) (2025-03-11)
+
+### Features
+
+* remove roboto font family ([7d4ed30](https://github.com/wrap-org/tokens/commit/7d4ed304298aecb2a2712460250fd58c7456024a))
+
 ## [2.10.0](https://github.com/wrap-org/tokens/compare/v2.9.0...v2.10.0) (2025-03-07)
 
 ### Features
