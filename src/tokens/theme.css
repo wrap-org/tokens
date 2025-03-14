@@ -12,7 +12,7 @@
   --evg-theme-background-forest: var(--evg-color-forest);
   --evg-theme-color-forest: var(--evg-color-cloud);
   --evg-theme-heading-color-forest: var(--evg-color-cloud);
-  --evg-theme-link-color-forest: var(--evg-color-cloud);
+  --evg-theme-link-color-forest: var(--evg-color-lime);
 
   --evg-theme-background-forest-light: var(--evg-color-forest-25);
   --evg-theme-color-forest-light: var(--evg-color-forest);
