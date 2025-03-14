@@ -1,3 +1,9 @@
+## [2.12.0](https://github.com/wrap-org/tokens/compare/v2.11.0...v2.12.0) (2025-03-14)
+
+### Features
+
+* scale fonts from mobile to tablet ([a8c8d25](https://github.com/wrap-org/tokens/commit/a8c8d25902b90efb5a1e67d282bcf63c805915d0))
+
 ## [2.11.0](https://github.com/wrap-org/tokens/compare/v2.10.0...v2.11.0) (2025-03-11)
 
 ### Features
