@@ -2,13 +2,13 @@
   --evg-button-border-radius: calc(var(--evg-spacing-thumb) / 2);
   --evg-button-border-width: 1px;
 
-  --evg-button-padding-block: var(--evg-spacing-12);
-  --evg-button-padding-inline: var(--evg-spacing-20);
+  --evg-button-padding-block: var(--evg-spacing-sm);
+  --evg-button-padding-inline: var(--evg-spacing-lg);
 
   --evg-button-gap: var(--evg-spacing-8);
 
   --evg-button-font-size: var(--evg-font-size-16);
-  --evg-button-line-height: var(--evg-font-line-height-sm);
+  --evg-button-line-height: var(--evg-font-line-height-lg);
   --evg-button-font-weight: var(--evg-font-weight-bold);
 
   --evg-button-file-background: var(--evg-color-sand-50);

@@ -12,7 +12,7 @@
   --evg-input-color-disabled: var(--evg-color-forest-75);
 
   --evg-input-font-size: var(--evg-font-size-16);
-  --evg-input-line-height: 1.75;
+  --evg-input-line-height: var(--evg-font-line-height-lg);
 
   --evg-input-checked: var(--evg-color-forest);
   --evg-input-checkradio-border-radius: var(--evg-radius-sm);
