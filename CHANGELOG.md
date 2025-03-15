@@ -1,3 +1,9 @@
+## [2.13.0](https://github.com/wrap-org/tokens/compare/v2.12.0...v2.13.0) (2025-03-15)
+
+### Features
+
+* bring button padding down and line height up ([df40022](https://github.com/wrap-org/tokens/commit/df40022c36a80de79c22e5ee595dd65334d503f3))
+
 ## [2.12.0](https://github.com/wrap-org/tokens/compare/v2.11.0...v2.12.0) (2025-03-14)
 
 ### Features
