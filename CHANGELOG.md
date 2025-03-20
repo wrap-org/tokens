@@ -1,3 +1,9 @@
+## [2.14.1](https://github.com/wrap-org/tokens/compare/v2.14.0...v2.14.1) (2025-03-20)
+
+### Bug Fixes
+
+* button inline padding size ([4d75948](https://github.com/wrap-org/tokens/commit/4d75948aeaee56092a16fdc24f526fbd62a0affc))
+
 ## [2.14.0](https://github.com/wrap-org/tokens/compare/v2.13.0...v2.14.0) (2025-03-20)
 
 ### Features
