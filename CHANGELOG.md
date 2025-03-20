@@ -1,3 +1,9 @@
+## [2.14.0](https://github.com/wrap-org/tokens/compare/v2.13.0...v2.14.0) (2025-03-20)
+
+### Features
+
+* smaller line heights ([9d3457d](https://github.com/wrap-org/tokens/commit/9d3457d692965e5cbfe0ba41b5d492135b2f3361))
+
 ## [2.13.0](https://github.com/wrap-org/tokens/compare/v2.12.0...v2.13.0) (2025-03-15)
 
 ### Features
