@@ -8,7 +8,8 @@
   --evg-font-weight-bold: 700;
   --evg-font-weight-black: 800;
 
-  --evg-font-line-height-sm: 1.25;
+  --evg-font-line-height-xs: 1;
+  --evg-font-line-height-sm: 1.1;
   --evg-font-line-height: 1.5;
   --evg-font-line-height-lg: 1.75;
 
