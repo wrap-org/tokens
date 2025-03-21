@@ -4,6 +4,8 @@
   --evg-transition-timing: ease-in-out;
 
   --evg-transition: var(--evg-transition-duration) var(--evg-transition-timing);
+  --evg-transition-enter: var(--evg-transition-duration-enter)
+    var(--evg-transition-timing);
 
   --evg-transition-duration-boing: 0.3s;
   --evg-transition-timing-boing: cubic-bezier(0.84, 0.05, 0.46, 1.78);
