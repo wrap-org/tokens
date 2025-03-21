@@ -1,6 +1,6 @@
 :root {
   --evg-transition-duration: 0.2s;
-  --evg-transition-duration-enter: 0.5s;
+  --evg-transition-duration-enter: 0.4s;
   --evg-transition-timing: ease-in-out;
 
   --evg-transition: var(--evg-transition-duration) var(--evg-transition-timing);
