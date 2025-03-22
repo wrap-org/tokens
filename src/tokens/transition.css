@@ -10,3 +10,10 @@
   --evg-transition-duration-boing: 0.3s;
   --evg-transition-timing-boing: cubic-bezier(0.84, 0.05, 0.46, 1.78);
 }
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --evg-transition-duration: 0s;
+    --evg-transition-duration-enter: 0s;
+  }
+}
