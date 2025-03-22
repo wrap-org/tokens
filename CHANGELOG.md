@@ -1,3 +1,11 @@
+## [2.15.0](https://github.com/wrap-org/tokens/compare/v2.14.1...v2.15.0) (2025-03-22)
+
+### Features
+
+* add enter transition duration ([c3420d1](https://github.com/wrap-org/tokens/commit/c3420d1a4007e74dfd38f8c48b0fe7dc27e96c4e))
+* add enter transition duration shorthand ([d3b22ff](https://github.com/wrap-org/tokens/commit/d3b22ffcb87c7043156f1f7bbe52a8d55d3620cf))
+* turn off animations for reduced motion ([e1de7e5](https://github.com/wrap-org/tokens/commit/e1de7e585375442b7cba69386ae75881768d702c))
+
 ## [2.14.1](https://github.com/wrap-org/tokens/compare/v2.14.0...v2.14.1) (2025-03-20)
 
 ### Bug Fixes
