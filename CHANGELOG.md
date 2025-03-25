@@ -1,3 +1,9 @@
+## [2.15.1](https://github.com/wrap-org/tokens/compare/v2.15.0...v2.15.1) (2025-03-25)
+
+### Bug Fixes
+
+* secondary button hover border on forest ([4c9cfe4](https://github.com/wrap-org/tokens/commit/4c9cfe418ed5410d084545a304176d7a48e17f6e))
+
 ## [2.15.0](https://github.com/wrap-org/tokens/compare/v2.14.1...v2.15.0) (2025-03-22)
 
 ### Features
