@@ -1,3 +1,9 @@
+## [2.15.2](https://github.com/wrap-org/tokens/compare/v2.15.1...v2.15.2) (2025-03-25)
+
+### Bug Fixes
+
+* make focus border coal as well ([243d711](https://github.com/wrap-org/tokens/commit/243d7114a5581f5c2bcc7efce963c8847d876940))
+
 ## [2.15.1](https://github.com/wrap-org/tokens/compare/v2.15.0...v2.15.1) (2025-03-25)
 
 ### Bug Fixes
