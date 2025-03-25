@@ -1,0 +1,31 @@
+:root {
+  --evg-chip-border-radius: calc(var(--evg-spacing-thumb) / 2);
+  --evg-chip-outline-offset: 4px;
+
+  /* LIGHT */
+  --evg-chip-color-light: var(--evg-color-forest);
+  --evg-chip-background-light: var(--evg-color-sand-75);
+  --evg-chip-background-hover-light: var(--evg-color-cloud);
+  --evg-chip-border-color-light: var(--evg-color-cloud);
+  --evg-chip-border-color-hover-light: var(--evg-color-forest-25);
+
+  --evg-chip-color-selected-light: var(--evg-color-lime);
+  --evg-chip-background-selected-light: var(--evg-color-forest-75);
+  --evg-chip-background-hover-selected-light: var(--evg-color-forest);
+  --evg-chip-border-color-selected-light: var(--evg-color-forest-75);
+  --evg-chip-border-color-hover-selected-light: var(--evg-color-forest-75);
+
+
+  /* DARK */
+  --evg-chip-color-dark: var(--evg-color-cloud);
+  --evg-chip-background-dark: var(--evg-color-forest-75);
+  --evg-chip-background-hover-dark: var(--evg-color-forest);
+  --evg-chip-border-color-dark: var(--evg-color-forest-75);
+  --evg-chip-border-color-hover-dark: var(--evg-color-forest-75);
+
+  --evg-chip-color-selected-dark: var(--evg-color-forest);
+  --evg-chip-background-selected-dark: var(--evg-color-lime);
+  --evg-chip-background-hover-selected-dark: var(--evg-color-lime-50);
+  --evg-chip-border-color-selected-dark: var(--evg-color-lime);
+  --evg-chip-border-color-hover-selected-dark: var(--evg-color-forest-75);
+}
