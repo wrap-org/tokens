@@ -1,3 +1,9 @@
+## [2.16.0](https://github.com/wrap-org/tokens/compare/v2.15.2...v2.16.0) (2025-03-26)
+
+### Features
+
+* add chip tokens ([e8f73ac](https://github.com/wrap-org/tokens/commit/e8f73aca7ba15b977787afae90f2926a9f69ad33))
+
 ## [2.15.2](https://github.com/wrap-org/tokens/compare/v2.15.1...v2.15.2) (2025-03-25)
 
 ### Bug Fixes
