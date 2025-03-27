@@ -6,7 +6,7 @@
   --evg-chip-color-light: var(--evg-color-forest);
   --evg-chip-background-light: var(--evg-color-sand-75);
   --evg-chip-background-hover-light: var(--evg-color-cloud);
-  --evg-chip-border-color-light: var(--evg-color-cloud);
+  --evg-chip-border-color-light: transparent;
   --evg-chip-border-color-hover-light: var(--evg-color-forest-25);
 
   --evg-chip-color-selected-light: var(--evg-color-lime);
@@ -19,7 +19,7 @@
   --evg-chip-color-dark: var(--evg-color-cloud);
   --evg-chip-background-dark: var(--evg-color-forest-75);
   --evg-chip-background-hover-dark: var(--evg-color-forest);
-  --evg-chip-border-color-dark: var(--evg-color-forest-75);
+  --evg-chip-border-color-dark: transparent;
   --evg-chip-border-color-hover-dark: var(--evg-color-forest-75);
 
   --evg-chip-color-selected-dark: var(--evg-color-forest);
