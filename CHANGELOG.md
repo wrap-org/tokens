@@ -1,3 +1,9 @@
+## [2.16.1](https://github.com/wrap-org/tokens/compare/v2.16.0...v2.16.1) (2025-03-27)
+
+### Bug Fixes
+
+* chip border color ([eae5961](https://github.com/wrap-org/tokens/commit/eae5961272e9474db1e1c0798796dbf8e026d672))
+
 ## [2.16.0](https://github.com/wrap-org/tokens/compare/v2.15.2...v2.16.0) (2025-03-26)
 
 ### Features
