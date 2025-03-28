@@ -1,0 +1,16 @@
+:root {
+  --evg-sentiment-neutral: var(--evg-color-sky);
+  --evg-sentiment-neutral-medium: var(--evg-color-sky-75);
+  --evg-sentiment-neutral-light: var(--evg-color-sky-50);
+  --evg-sentiment-neutral-lightest: var(--evg-color-sky-25);
+
+  --evg-sentiment-positive: var(--evg-color-lime);
+  --evg-sentiment-positive-medium: var(--evg-color-lime-75);
+  --evg-sentiment-positive-light: var(--evg-color-lime-50);
+  --evg-sentiment-positive-lightest: var(--evg-color-lime-25);
+
+  --evg-sentiment-negative: var(--evg-color-rose);
+  --evg-sentiment-negative-medium: var(--evg-color-rose-75);
+  --evg-sentiment-negative-light: var(--evg-color-rose-50);
+  --evg-sentiment-negative-lightest: var(--evg-color-rose-25);
+}
