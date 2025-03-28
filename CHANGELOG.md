@@ -1,3 +1,13 @@
+## [3.0.0](https://github.com/wrap-org/tokens/compare/v2.16.1...v3.0.0) (2025-03-28)
+
+### ⚠ BREAKING CHANGES
+
+* remove negative button tokens
+
+### Features
+
+* remove negative button tokens ([edf0ec5](https://github.com/wrap-org/tokens/commit/edf0ec5899683e6adb368287f3340bc036fd95cb))
+
 ## [2.16.1](https://github.com/wrap-org/tokens/compare/v2.16.0...v2.16.1) (2025-03-27)
 
 ### Bug Fixes
