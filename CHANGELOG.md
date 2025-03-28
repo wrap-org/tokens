@@ -1,3 +1,9 @@
+## [4.1.0](https://github.com/wrap-org/tokens/compare/v4.0.0...v4.1.0) (2025-03-28)
+
+### Features
+
+* new button colours ([98e6a55](https://github.com/wrap-org/tokens/commit/98e6a55cb5ca6f8f21ccd6ff6d82a6fd095aeb1a))
+
 ## [4.0.0](https://github.com/wrap-org/tokens/compare/v3.0.0...v4.0.0) (2025-03-28)
 
 ### ⚠ BREAKING CHANGES
