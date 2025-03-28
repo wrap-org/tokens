@@ -1,3 +1,15 @@
+## [4.0.0](https://github.com/wrap-org/tokens/compare/v3.0.0...v4.0.0) (2025-03-28)
+
+### ⚠ BREAKING CHANGES
+
+* rename tokens to sentiment
+* update state tokens to sentiment
+
+### Features
+
+* rename tokens to sentiment ([9cc3f70](https://github.com/wrap-org/tokens/commit/9cc3f70070f6bb35aca43e4de8de96d5a59e2c81))
+* update state tokens to sentiment ([fcdaae5](https://github.com/wrap-org/tokens/commit/fcdaae5ad5370119f653e91aafbf13bae940ac13))
+
 ## [3.0.0](https://github.com/wrap-org/tokens/compare/v2.16.1...v3.0.0) (2025-03-28)
 
 ### ⚠ BREAKING CHANGES
