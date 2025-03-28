@@ -8,6 +8,9 @@
   --evg-input-border-focus: var(--evg-color-forest-75);
   --evg-input-border-radius: var(--evg-radius-sm);
 
+  --evg-input-border-color-valid: var(--evg-color-lime);
+  --evg-input-border-color-invalid: var(--evg-color-rose);
+
   --evg-input-color: var(--evg-color-forest);
   --evg-input-color-disabled: var(--evg-color-forest-75);
 
