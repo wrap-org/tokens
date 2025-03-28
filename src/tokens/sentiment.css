@@ -1,0 +1,16 @@
+:root {
+  --evg-state-neutral: var(--evg-color-sky);
+  --evg-state-neutral-medium: var(--evg-color-sky-75);
+  --evg-state-neutral-light: var(--evg-color-sky-50);
+  --evg-state-neutral-lightest: var(--evg-color-sky-25);
+
+  --evg-state-positive: var(--evg-color-lime);
+  --evg-state-positive-medium: var(--evg-color-lime-75);
+  --evg-state-positive-light: var(--evg-color-lime-50);
+  --evg-state-positive-lightest: var(--evg-color-lime-25);
+
+  --evg-state-negative: var(--evg-color-rose);
+  --evg-state-negative-medium: var(--evg-color-rose-75);
+  --evg-state-negative-light: var(--evg-color-rose-50);
+  --evg-state-negative-lightest: var(--evg-color-rose-25);
+}
