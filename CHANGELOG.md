@@ -1,3 +1,13 @@
+## [5.0.0](https://github.com/wrap-org/tokens/compare/v4.1.0...v5.0.0) (2025-03-31)
+
+### ⚠ BREAKING CHANGES
+
+* rename text button variant to ghost
+
+### Features
+
+* rename text button variant to ghost ([efdf236](https://github.com/wrap-org/tokens/commit/efdf236df489b0476581b8a11d862a57e3199bc5))
+
 ## [4.1.0](https://github.com/wrap-org/tokens/compare/v4.0.0...v4.1.0) (2025-03-28)
 
 ### Features
