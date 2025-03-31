@@ -1,3 +1,14 @@
+## [6.0.0](https://github.com/wrap-org/tokens/compare/v5.0.0...v6.0.0) (2025-03-31)
+
+### ⚠ BREAKING CHANGES
+
+* simplify sentiment tokens
+
+### Features
+
+* add vaid invalid input color tokens ([b801268](https://github.com/wrap-org/tokens/commit/b8012682116c96fc4cc50bc4c7595d010f20bc69))
+* simplify sentiment tokens ([26a7a69](https://github.com/wrap-org/tokens/commit/26a7a6952d1acd805bb10751a9153a1cbd768fc2))
+
 ## [5.0.0](https://github.com/wrap-org/tokens/compare/v4.1.0...v5.0.0) (2025-03-31)
 
 ### ⚠ BREAKING CHANGES
