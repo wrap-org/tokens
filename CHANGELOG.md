@@ -1,3 +1,9 @@
+## [6.1.0](https://github.com/wrap-org/tokens/compare/v6.0.0...v6.1.0) (2025-05-30)
+
+### Features
+
+* generate provenance statements ([483e3d7](https://github.com/wrap-org/tokens/commit/483e3d7cc790d25a2ec6cdb1445602b157678e9b))
+
 ## [6.0.0](https://github.com/wrap-org/tokens/compare/v5.0.0...v6.0.0) (2025-03-31)
 
 ### ⚠ BREAKING CHANGES
